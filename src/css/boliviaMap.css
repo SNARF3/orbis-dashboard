@@ -1,0 +1,141 @@
+/* styles/boliviaMap.css */
+.bolivia-map-container {
+  background: linear-gradient(135deg, rgba(255, 255, 255, 0.95) 0%, rgba(244, 233, 215, 0.9) 100%);
+  border-radius: 16px;
+  padding: 1.5rem;
+  border: 1px solid rgba(255, 255, 255, 0.6);
+  box-shadow: 0 8px 32px rgba(7, 45, 66, 0.1);
+}
+
+.bolivia-map {
+  background: #F4E9D7;
+  border-radius: 12px;
+  margin: 0 auto;
+  box-shadow: 0 4px 16px rgba(0,0,0,0.1);
+}
+
+.map-stats {
+  margin-top: 1.5rem;
+  padding: 1rem;
+  background: rgba(255, 255, 255, 0.8);
+  border-radius: 12px;
+  border: 1px solid rgba(217, 203, 191, 0.5);
+}
+
+.stats-summary {
+  text-align: center;
+  margin-bottom: 1rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid rgba(217, 203, 191, 0.3);
+}
+
+.stat-label {
+  font-size: 0.875rem;
+  color: #464E59;
+  font-weight: 600;
+  margin-right: 0.5rem;
+}
+
+.stat-value {
+  font-size: 1.25rem;
+  color: #072D42;
+  font-weight: 700;
+  font-family: 'Plus Jakarta Sans', sans-serif;
+}
+
+.departments-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 0.5rem;
+}
+
+.department-stat {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.5rem;
+  background: rgba(255, 255, 255, 0.6);
+  border-radius: 6px;
+  border: 1px solid rgba(217, 203, 191, 0.3);
+  font-size: 0.875rem;
+}
+
+.dept-name {
+  color: #464E59;
+  font-weight: 500;
+}
+
+.dept-value {
+  color: #072D42;
+  font-weight: 700;
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  background: rgba(242, 158, 56, 0.1);
+  padding: 0.25rem 0.5rem;
+  border-radius: 4px;
+  min-width: 30px;
+  text-align: center;
+}
+
+.bolivia-map-loading,
+.bolivia-map-error {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 400px;
+  text-align: center;
+  background: rgba(255, 255, 255, 0.8);
+  border-radius: 12px;
+  padding: 2rem;
+}
+
+.loading-spinner {
+  width: 40px;
+  height: 40px;
+  border: 4px solid rgba(242, 158, 56, 0.2);
+  border-left: 4px solid #F29E38;
+  border-radius: 50%;
+  animation: spin 1s linear infinite;
+  margin-bottom: 1rem;
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+.error-icon {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+}
+
+/* Highcharts customizations */
+.highcharts-container {
+  border-radius: 12px !important;
+}
+
+.highcharts-background {
+  fill: #F4E9D7 !important;
+}
+
+.highcharts-legend-box {
+  fill: rgba(255, 255, 255, 0.9) !important;
+  stroke: #D9CBBF !important;
+  stroke-width: 1px !important;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .bolivia-map {
+    width: 100% !important;
+    height: 300px !important;
+  }
+  
+  .departments-list {
+    grid-template-columns: 1fr;
+  }
+  
+  .department-stat {
+    font-size: 0.8rem;
+  }
+}

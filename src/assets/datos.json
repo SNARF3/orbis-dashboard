@@ -1,0 +1,440 @@
+{
+  "empresas": [
+    {
+      "id": 1,
+      "nombre": "Tecnosur S.R.L.",
+      "fechaFundacion": "2005-06-12",
+      "tamanoEmpresa": "Mediana",
+      "empresaFamiliar": true,
+      "rubro": "Tecnología",
+      "esPropioRubro": true,
+      "cambioRubro": false,
+      "tipoSocietaria": "S.R.L.",
+      "esPropioTipoSocietario": true,
+      "cambioTipoSocietario": false,
+      "oficinaCentral": true,
+      "operacionesInternacionales": false,
+      "impactoSocial": true,
+      "sostenibilidad": true,
+      "anioDeImplementacionImpa": "2020-01-01",
+      "sedes": [
+        { "id": 1, "nombre": "Cochabamba" }
+      ],
+      "paises": [
+        { "id": 1, "nombre": "Bolivia" }
+      ],
+      "municipios": [
+        { "id": 1, "nombre": "Cercado" }
+      ],
+      "ods": [
+        {
+          "id": 1,
+          "nombre": "Energía asequible y no contaminante",
+          "proyectos": [
+            { "id": 1, "nombre": "Paneles solares TECNOSUR" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "nombre": "Industrias Lácteas DELIZIA S.A.",
+      "fechaFundacion": "1998-03-20",
+      "tamanoEmpresa": "Grande",
+      "empresaFamiliar": true,
+      "rubro": "Alimentos",
+      "esPropioRubro": true,
+      "cambioRubro": false,
+      "tipoSocietaria": "S.A.",
+      "esPropioTipoSocietario": true,
+      "cambioTipoSocietario": false,
+      "oficinaCentral": true,
+      "operacionesInternacionales": true,
+      "impactoSocial": true,
+      "sostenibilidad": true,
+      "anioDeImplementacionImpa": "2018-05-15",
+      "sedes": [
+        { "id": 1, "nombre": "Santa Cruz" },
+        { "id": 2, "nombre": "La Paz" },
+        { "id": 3, "nombre": "Cochabamba" }
+      ],
+      "paises": [
+        { "id": 1, "nombre": "Bolivia" },
+        { "id": 2, "nombre": "Perú" },
+        { "id": 3, "nombre": "Chile" }
+      ],
+      "municipios": [
+        { "id": 1, "nombre": "Warnes" },
+        { "id": 2, "nombre": "Cotoca" }
+      ],
+      "ods": [
+        {
+          "id": 2,
+          "nombre": "Hambre cero",
+          "proyectos": [
+            { "id": 1, "nombre": "Programa nutrición escolar" }
+          ]
+        },
+        {
+          "id": 8,
+          "nombre": "Trabajo decente y crecimiento económico",
+          "proyectos": [
+            { "id": 2, "nombre": "Capacitación productores lecheros" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "nombre": "Construcciones ANDINA S.R.L.",
+      "fechaFundacion": "2010-11-08",
+      "tamanoEmpresa": "Mediana",
+      "empresaFamiliar": false,
+      "rubro": "Construcción",
+      "esPropioRubro": true,
+      "cambioRubro": false,
+      "tipoSocietaria": "S.R.L.",
+      "esPropioTipoSocietario": true,
+      "cambioTipoSocietario": false,
+      "oficinaCentral": true,
+      "operacionesInternacionales": false,
+      "impactoSocial": false,
+      "sostenibilidad": false,
+      "anioDeImplementacionImpa": null,
+      "sedes": [
+        { "id": 1, "nombre": "La Paz" },
+        { "id": 2, "nombre": "El Alto" }
+      ],
+      "paises": [
+        { "id": 1, "nombre": "Bolivia" }
+      ],
+      "municipios": [
+        { "id": 1, "nombre": "La Paz" },
+        { "id": 2, "nombre": "El Alto" }
+      ],
+      "ods": []
+    },
+    {
+      "id": 4,
+      "nombre": "Textiles BOLIVIANOS S.A.",
+      "fechaFundacion": "1985-07-30",
+      "tamanoEmpresa": "Grande",
+      "empresaFamiliar": true,
+      "rubro": "Textil",
+      "esPropioRubro": true,
+      "cambioRubro": false,
+      "tipoSocietaria": "S.A.",
+      "esPropioTipoSocietario": true,
+      "cambioTipoSocietario": false,
+      "oficinaCentral": true,
+      "operacionesInternacionales": true,
+      "impactoSocial": true,
+      "sostenibilidad": true,
+      "anioDeImplementacionImpa": "2015-09-10",
+      "sedes": [
+        { "id": 1, "nombre": "Cochabamba" },
+        { "id": 2, "nombre": "Santa Cruz" },
+        { "id": 3, "nombre": "La Paz" },
+        { "id": 4, "nombre": "Oruro" }
+      ],
+      "paises": [
+        { "id": 1, "nombre": "Bolivia" },
+        { "id": 2, "nombre": "Brasil" },
+        { "id": 3, "nombre": "Argentina" },
+        { "id": 4, "nombre": "Estados Unidos" }
+      ],
+      "municipios": [
+        { "id": 1, "nombre": "Quillacollo" },
+        { "id": 2, "nombre": "Sacaba" }
+      ],
+      "ods": [
+        {
+          "id": 5,
+          "nombre": "Igualdad de género",
+          "proyectos": [
+            { "id": 1, "nombre": "Programa mujeres lideresas textiles" }
+          ]
+        },
+        {
+          "id": 12,
+          "nombre": "Producción y consumo responsables",
+          "proyectos": [
+            { "id": 2, "nombre": "Uso algodón orgánico" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "nombre": "Consultoría Estratégica VISION 360",
+      "fechaFundacion": "2018-02-14",
+      "tamanoEmpresa": "Pequeña",
+      "empresaFamiliar": false,
+      "rubro": "Consultoría",
+      "esPropioRubro": true,
+      "cambioRubro": true,
+      "rubroAnterior": "Educación",
+      "tipoSocietaria": "S.R.L.",
+      "esPropioTipoSocietario": true,
+      "cambioTipoSocietario": false,
+      "oficinaCentral": true,
+      "operacionesInternacionales": true,
+      "impactoSocial": true,
+      "sostenibilidad": true,
+      "anioDeImplementacionImpa": "2019-11-20",
+      "sedes": [
+        { "id": 1, "nombre": "La Paz" }
+      ],
+      "paises": [
+        { "id": 1, "nombre": "Bolivia" },
+        { "id": 2, "nombre": "Colombia" },
+        { "id": 3, "nombre": "México" }
+      ],
+      "municipios": [
+        { "id": 1, "nombre": "La Paz" }
+      ],
+      "ods": [
+        {
+          "id": 4,
+          "nombre": "Educación de calidad",
+          "proyectos": [
+            { "id": 1, "nombre": "Capacitación PYMEs" }
+          ]
+        },
+        {
+          "id": 8,
+          "nombre": "Trabajo decente y crecimiento económico",
+          "proyectos": [
+            { "id": 2, "nombre": "Consultoría empleabilidad juvenil" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "nombre": "Agroindustrial SOYANDINA S.R.L.",
+      "fechaFundacion": "2000-09-05",
+      "tamanoEmpresa": "Mediana",
+      "empresaFamiliar": true,
+      "rubro": "Agroindustria",
+      "esPropioRubro": true,
+      "cambioRubro": false,
+      "tipoSocietaria": "S.R.L.",
+      "esPropioTipoSocietario": false,
+      "tipoSocietariaAnterior": "Empresa Individual",
+      "cambioTipoSocietario": true,
+      "oficinaCentral": true,
+      "operacionesInternacionales": true,
+      "impactoSocial": true,
+      "sostenibilidad": true,
+      "anioDeImplementacionImpa": "2012-03-18",
+      "sedes": [
+        { "id": 1, "nombre": "Santa Cruz" },
+        { "id": 2, "nombre": "Beni" }
+      ],
+      "paises": [
+        { "id": 1, "nombre": "Bolivia" },
+        { "id": 2, "nombre": "Perú" },
+        { "id": 3, "nombre": "Ecuador" }
+      ],
+      "municipios": [
+        { "id": 1, "nombre": "Montero" },
+        { "id": 2, "nombre": "Yapacaní" }
+      ],
+      "ods": [
+        {
+          "id": 2,
+          "nombre": "Hambre cero",
+          "proyectos": [
+            { "id": 1, "nombre": "Cultivo soya sostenible" }
+          ]
+        },
+        {
+          "id": 15,
+          "nombre": "Vida de ecosistemas terrestres",
+          "proyectos": [
+            { "id": 2, "nombre": "Reforestación áreas cultivadas" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "nombre": "Farmacias SALUD TOTAL",
+      "fechaFundacion": "1992-12-03",
+      "tamanoEmpresa": "Grande",
+      "empresaFamiliar": true,
+      "rubro": "Salud",
+      "esPropioRubro": true,
+      "cambioRubro": false,
+      "tipoSocietaria": "S.A.",
+      "esPropioTipoSocietario": true,
+      "cambioTipoSocietario": false,
+      "oficinaCentral": true,
+      "operacionesInternacionales": false,
+      "impactoSocial": true,
+      "sostenibilidad": false,
+      "anioDeImplementacionImpa": "2008-07-22",
+      "sedes": [
+        { "id": 1, "nombre": "La Paz" },
+        { "id": 2, "nombre": "Cochabamba" },
+        { "id": 3, "nombre": "Santa Cruz" },
+        { "id": 4, "nombre": "Oruro" },
+        { "id": 5, "nombre": "Potosí" },
+        { "id": 6, "nombre": "Sucre" }
+      ],
+      "paises": [
+        { "id": 1, "nombre": "Bolivia" }
+      ],
+      "municipios": [
+        { "id": 1, "nombre": "La Paz" },
+        { "id": 2, "nombre": "Cochabamba" },
+        { "id": 3, "nombre": "Santa Cruz" }
+      ],
+      "ods": [
+        {
+          "id": 3,
+          "nombre": "Salud y bienestar",
+          "proyectos": [
+            { "id": 1, "nombre": "Medicamentos a bajo costo" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "nombre": "TechSolutions BOLIVIA",
+      "fechaFundacion": "2015-04-18",
+      "tamanoEmpresa": "Micro",
+      "empresaFamiliar": false,
+      "rubro": "Tecnología",
+      "esPropioRubro": true,
+      "cambioRubro": false,
+      "tipoSocietaria": "S.R.L.",
+      "esPropioTipoSocietario": true,
+      "cambioTipoSocietario": false,
+      "oficinaCentral": true,
+      "operacionesInternacionales": true,
+      "impactoSocial": false,
+      "sostenibilidad": false,
+      "anioDeImplementacionImpa": null,
+      "sedes": [
+        { "id": 1, "nombre": "La Paz" }
+      ],
+      "paises": [
+        { "id": 1, "nombre": "Bolivia" },
+        { "id": 2, "nombre": "Estados Unidos" }
+      ],
+      "municipios": [
+        { "id": 1, "nombre": "La Paz" }
+      ],
+      "ods": []
+    },
+    {
+      "id": 9,
+      "nombre": "Transportes INTERANDINO S.A.",
+      "fechaFundacion": "1978-08-25",
+      "tamanoEmpresa": "Grande",
+      "empresaFamiliar": true,
+      "rubro": "Transporte",
+      "esPropioRubro": true,
+      "cambioRubro": false,
+      "tipoSocietaria": "S.A.",
+      "esPropioTipoSocietario": true,
+      "cambioTipoSocietario": false,
+      "oficinaCentral": true,
+      "operacionesInternacionales": true,
+      "impactoSocial": true,
+      "sostenibilidad": true,
+      "anioDeImplementacionImpa": "2010-06-14",
+      "sedes": [
+        { "id": 1, "nombre": "La Paz" },
+        { "id": 2, "nombre": "Santa Cruz" },
+        { "id": 3, "nombre": "Cochabamba" },
+        { "id": 4, "nombre": "Oruro" },
+        { "id": 5, "nombre": "Potosí" }
+      ],
+      "paises": [
+        { "id": 1, "nombre": "Bolivia" },
+        { "id": 2, "nombre": "Perú" },
+        { "id": 3, "nombre": "Chile" },
+        { "id": 4, "nombre": "Argentina" }
+      ],
+      "municipios": [
+        { "id": 1, "nombre": "La Paz" },
+        { "id": 2, "nombre": "Santa Cruz" }
+      ],
+      "ods": [
+        {
+          "id": 9,
+          "nombre": "Industria, innovación e infraestructura",
+          "proyectos": [
+            { "id": 1, "nombre": "Flota vehicular ecológica" }
+          ]
+        },
+        {
+          "id": 11,
+          "nombre": "Ciudades y comunidades sostenibles",
+          "proyectos": [
+            { "id": 2, "nombre": "Transporte urbano sostenible" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "nombre": "Café de Altura BOLIVIA",
+      "fechaFundacion": "2008-11-30",
+      "tamanoEmpresa": "Pequeña",
+      "empresaFamiliar": true,
+      "rubro": "Alimentos",
+      "esPropioRubro": true,
+      "cambioRubro": false,
+      "tipoSocietaria": "S.R.L.",
+      "esPropioTipoSocietario": true,
+      "cambioTipoSocietario": false,
+      "oficinaCentral": true,
+      "operacionesInternacionales": true,
+      "impactoSocial": true,
+      "sostenibilidad": true,
+      "anioDeImplementacionImpa": "2015-08-12",
+      "sedes": [
+        { "id": 1, "nombre": "La Paz" },
+        { "id": 2, "nombre": "Cochabamba" }
+      ],
+      "paises": [
+        { "id": 1, "nombre": "Bolivia" },
+        { "id": 2, "nombre": "Estados Unidos" },
+        { "id": 3, "nombre": "Japón" },
+        { "id": 4, "nombre": "Corea del Sur" }
+      ],
+      "municipios": [
+        { "id": 1, "nombre": "La Paz" },
+        { "id": 2, "nombre": "Caranavi" }
+      ],
+      "ods": [
+        {
+          "id": 1,
+          "nombre": "Fin de la pobreza",
+          "proyectos": [
+            { "id": 1, "nombre": "Comercio justo productores café" }
+          ]
+        },
+        {
+          "id": 12,
+          "nombre": "Producción y consumo responsables",
+          "proyectos": [
+            { "id": 2, "nombre": "Café orgánico y sostenible" }
+          ]
+        },
+        {
+          "id": 15,
+          "nombre": "Vida de ecosistemas terrestres",
+          "proyectos": [
+            { "id": 3, "nombre": "Cultivo sombra biodiverso" }
+          ]
+        }
+      ]
+    }
+  ]
+}

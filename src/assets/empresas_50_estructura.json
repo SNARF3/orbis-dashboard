@@ -1,0 +1,3445 @@
+{
+  "empresas": [
+    {
+      "id": 1,
+      "nombre": "Hotel PlazaBol S.R.L.",
+      "fechaFundacion": "1967-03-31",
+      "tamanoEmpresa": "Mediana",
+      "empresaFamiliar": true,
+      "rubro": "Transporte",
+      "esPropioRubro": true,
+      "cambioRubro": false,
+      "tipoSocietaria": "S.R.L.",
+      "esPropioTipoSocietario": true,
+      "cambioTipoSocietario": true,
+      "tipoSocietariaAnterior": "S.A.",
+      "oficinaCentral": true,
+      "operacionesInternacionales": true,
+      "impactoSocial": true,
+      "sostenibilidad": true,
+      "anioDeImplementacionImpa": "2022-03-23",
+      "sedes": [
+        {
+          "id": 1,
+          "nombre": "Potosí"
+        }
+      ],
+      "paises": [
+        {
+          "id": 1,
+          "nombre": "Bolivia"
+        },
+        {
+          "id": 2,
+          "nombre": "Argentina"
+        }
+      ],
+      "municipios": [
+        {
+          "id": 1,
+          "nombre": "Potosí"
+        }
+      ],
+      "ods": [
+        {
+          "id": 7,
+          "nombre": "Energía asequible y no contaminante",
+          "proyectos": [
+            {
+              "id": 1,
+              "nombre": "Proyecto Energía asequible y no contaminante 1"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "nombre": "Agua limpia y saneamiento",
+          "proyectos": [
+            {
+              "id": 1,
+              "nombre": "Proyecto Agua limpia y saneamiento 1"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "nombre": "Igualdad de género",
+          "proyectos": [
+            {
+              "id": 1,
+              "nombre": "Proyecto Igualdad de género 1"
+            },
+            {
+              "id": 2,
+              "nombre": "Proyecto Igualdad de género 2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "nombre": "AgroBol S.R.L.",
+      "fechaFundacion": "1999-02-01",
+      "tamanoEmpresa": "Micro",
+      "empresaFamiliar": false,
+      "rubro": "Gastronomía",
+      "esPropioRubro": true,
+      "cambioRubro": true,
+      "rubroAnterior": "Comercio",
+      "tipoSocietaria": "S.R.L.",
+      "esPropioTipoSocietario": true,
+      "cambioTipoSocietario": false,
+      "oficinaCentral": true,
+      "operacionesInternacionales": false,
+      "impactoSocial": false,
+      "sostenibilidad": false,
+      "anioDeImplementacionImpa": null,
+      "sedes": [
+        {
+          "id": 1,
+          "nombre": "Oruro"
+        },
+        {
+          "id": 2,
+          "nombre": "Cochabamba"
+        },
+        {
+          "id": 3,
+          "nombre": "La Paz"
+        }
+      ],
+      "paises": [
+        {
+          "id": 1,
+          "nombre": "Bolivia"
+        }
+      ],
+      "municipios": [
+        {
+          "id": 1,
+          "nombre": "Oruro"
+        },
+        {
+          "id": 2,
+          "nombre": "Cercado"
+        },
+        {
+          "id": 3,
+          "nombre": "Cercado"
+        }
+      ],
+      "ods": []
+    },
+    {
+      "id": 3,
+      "nombre": "BancoPopular S.A.",
+      "fechaFundacion": "1990-12-18",
+      "tamanoEmpresa": "Grande",
+      "empresaFamiliar": false,
+      "rubro": "Textil",
+      "esPropioRubro": true,
+      "cambioRubro": false,
+      "tipoSocietaria": "Empresa Individual",
+      "esPropioTipoSocietario": true,
+      "cambioTipoSocietario": false,
+      "oficinaCentral": true,
+      "operacionesInternacionales": false,
+      "impactoSocial": false,
+      "sostenibilidad": false,
+      "anioDeImplementacionImpa": null,
+      "sedes": [
+        {
+          "id": 1,
+          "nombre": "Santa Cruz"
+        }
+      ],
+      "paises": [
+        {
+          "id": 1,
+          "nombre": "Bolivia"
+        }
+      ],
+      "municipios": [
+        {
+          "id": 1,
+          "nombre": "Warnes"
+        }
+      ],
+      "ods": []
+    },
+    {
+      "id": 4,
+      "nombre": "AgroAndes S.A.",
+      "fechaFundacion": "1979-08-30",
+      "tamanoEmpresa": "Mediana",
+      "empresaFamiliar": true,
+      "rubro": "Manufactura",
+      "esPropioRubro": true,
+      "cambioRubro": false,
+      "tipoSocietaria": "S.R.L.",
+      "esPropioTipoSocietario": true,
+      "cambioTipoSocietario": true,
+      "tipoSocietariaAnterior": "Empresa Individual",
+      "oficinaCentral": true,
+      "operacionesInternacionales": false,
+      "impactoSocial": true,
+      "sostenibilidad": false,
+      "anioDeImplementacionImpa": null,
+      "sedes": [
+        {
+          "id": 1,
+          "nombre": "Tarija"
+        },
+        {
+          "id": 2,
+          "nombre": "Beni"
+        }
+      ],
+      "paises": [
+        {
+          "id": 1,
+          "nombre": "Bolivia"
+        }
+      ],
+      "municipios": [
+        {
+          "id": 1,
+          "nombre": "Tarija"
+        },
+        {
+          "id": 2,
+          "nombre": "Trinidad"
+        }
+      ],
+      "ods": [
+        {
+          "id": 5,
+          "nombre": "Igualdad de género",
+          "proyectos": [
+            {
+              "id": 1,
+              "nombre": "Proyecto Igualdad de género 1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "nombre": "Salud Total E.I.R.L.",
+      "fechaFundacion": "2017-06-12",
+      "tamanoEmpresa": "Mediana",
+      "empresaFamiliar": true,
+      "rubro": "Telecomunicaciones",
+      "esPropioRubro": true,
+      "cambioRubro": false,
+      "tipoSocietaria": "Cooperativa",
+      "esPropioTipoSocietario": true,
+      "cambioTipoSocietario": true,
+      "tipoSocietariaAnterior": "S.R.L.",
+      "oficinaCentral": true,
+      "operacionesInternacionales": true,
+      "impactoSocial": true,
+      "sostenibilidad": false,
+      "anioDeImplementacionImpa": "2018-08-19",
+      "sedes": [
+        {
+          "id": 1,
+          "nombre": "Beni"
+        },
+        {
+          "id": 2,
+          "nombre": "Pando"
+        }
+      ],
+      "paises": [
+        {
+          "id": 1,
+          "nombre": "Bolivia"
+        },
+        {
+          "id": 2,
+          "nombre": "Paraguay"
+        },
+        {
+          "id": 3,
+          "nombre": "Perú"
+        }
+      ],
+      "municipios": [
+        {
+          "id": 1,
+          "nombre": "Trinidad"
+        },
+        {
+          "id": 2,
+          "nombre": "Cobija"
+        }
+      ],
+      "ods": [
+        {
+          "id": 13,
+          "nombre": "Acción por el clima",
+          "proyectos": [
+            {
+              "id": 1,
+              "nombre": "Proyecto Acción por el clima 1"
+            },
+            {
+              "id": 2,
+              "nombre": "Proyecto Acción por el clima 2"
+            },
+            {
+              "id": 3,
+              "nombre": "Proyecto Acción por el clima 3"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "nombre": "Hambre cero",
+          "proyectos": [
+            {
+              "id": 1,
+              "nombre": "Proyecto Hambre cero 1"
+            },
+            {
+              "id": 2,
+              "nombre": "Proyecto Hambre cero 2"
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "nombre": "Producción y consumo responsables",
+          "proyectos": [
+            {
+              "id": 1,
+              "nombre": "Proyecto Producción y consumo responsables 1"
+            },
+            {
+              "id": 2,
+              "nombre": "Proyecto Producción y consumo responsables 2"
+            },
+            {
+              "id": 3,
+              "nombre": "Proyecto Producción y consumo responsables 3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "nombre": "SoftIdeas S.R.L.",
+      "fechaFundacion": "1991-05-02",
+      "tamanoEmpresa": "Mediana",
+      "empresaFamiliar": true,
+      "rubro": "Turismo",
+      "esPropioRubro": true,
+      "cambioRubro": false,
+      "tipoSocietaria": "S.R.L.",
+      "esPropioTipoSocietario": true,
+      "cambioTipoSocietario": false,
+      "oficinaCentral": true,
+      "operacionesInternacionales": false,
+      "impactoSocial": false,
+      "sostenibilidad": true,
+      "anioDeImplementacionImpa": null,
+      "sedes": [
+        {
+          "id": 1,
+          "nombre": "Beni"
+        },
+        {
+          "id": 2,
+          "nombre": "La Paz"
+        }
+      ],
+      "paises": [
+        {
+          "id": 1,
+          "nombre": "Bolivia"
+        }
+      ],
+      "municipios": [
+        {
+          "id": 1,
+          "nombre": "Trinidad"
+        },
+        {
+          "id": 2,
+          "nombre": "Cercado"
+        }
+      ],
+      "ods": [
+        {
+          "id": 6,
+          "nombre": "Agua limpia y saneamiento",
+          "proyectos": [
+            {
+              "id": 1,
+              "nombre": "Proyecto Agua limpia y saneamiento 1"
+            },
+            {
+              "id": 2,
+              "nombre": "Proyecto Agua limpia y saneamiento 2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "nombre": "Salud Total S.R.L.",
+      "fechaFundacion": "1986-08-11",
+      "tamanoEmpresa": "Grande",
+      "empresaFamiliar": false,
+      "rubro": "Construcción",
+      "esPropioRubro": true,
+      "cambioRubro": false,
+      "tipoSocietaria": "S.A.",
+      "esPropioTipoSocietario": true,
+      "cambioTipoSocietario": false,
+      "oficinaCentral": true,
+      "operacionesInternacionales": false,
+      "impactoSocial": true,
+      "sostenibilidad": false,
+      "anioDeImplementacionImpa": null,
+      "sedes": [
+        {
+          "id": 1,
+          "nombre": "Tarija"
+        },
+        {
+          "id": 2,
+          "nombre": "Chuquisaca"
+        }
+      ],
+      "paises": [
+        {
+          "id": 1,
+          "nombre": "Bolivia"
+        }
+      ],
+      "municipios": [
+        {
+          "id": 1,
+          "nombre": "Tarija"
+        },
+        {
+          "id": 2,
+          "nombre": "Sucre"
+        }
+      ],
+      "ods": [
+        {
+          "id": 9,
+          "nombre": "Industria, innovación e infraestructura",
+          "proyectos": [
+            {
+              "id": 1,
+              "nombre": "Proyecto Industria, innovación e infraestructura 1"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "nombre": "Trabajo decente y crecimiento económico",
+          "proyectos": [
+            {
+              "id": 1,
+              "nombre": "Proyecto Trabajo decente y crecimiento económico 1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "nombre": "Soyandina S.R.L.",
+      "fechaFundacion": "1995-05-02",
+      "tamanoEmpresa": "Micro",
+      "empresaFamiliar": true,
+      "rubro": "Software",
+      "esPropioRubro": true,
+      "cambioRubro": true,
+      "rubroAnterior": "Alimentos",
+      "tipoSocietaria": "S.A.",
+      "esPropioTipoSocietario": false,
+      "cambioTipoSocietario": true,
+      "tipoSocietariaAnterior": "Empresa Individual",
+      "oficinaCentral": true,
+      "operacionesInternacionales": true,
+      "impactoSocial": true,
+      "sostenibilidad": false,
+      "anioDeImplementacionImpa": "2012-12-19",
+      "sedes": [
+        {
+          "id": 1,
+          "nombre": "Beni"
+        }
+      ],
+      "paises": [
+        {
+          "id": 1,
+          "nombre": "Bolivia"
+        },
+        {
+          "id": 2,
+          "nombre": "Brasil"
+        },
+        {
+          "id": 3,
+          "nombre": "Chile"
+        }
+      ],
+      "municipios": [
+        {
+          "id": 1,
+          "nombre": "Trinidad"
+        }
+      ],
+      "ods": [
+        {
+          "id": 12,
+          "nombre": "Producción y consumo responsables",
+          "proyectos": [
+            {
+              "id": 1,
+              "nombre": "Proyecto Producción y consumo responsables 1"
+            },
+            {
+              "id": 2,
+              "nombre": "Proyecto Producción y consumo responsables 2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "nombre": "MediaLab Cooperativa",
+      "fechaFundacion": "2001-11-18",
+      "tamanoEmpresa": "Mediana",
+      "empresaFamiliar": false,
+      "rubro": "Textil",
+      "esPropioRubro": false,
+      "cambioRubro": false,
+      "tipoSocietaria": "S.R.L.",
+      "esPropioTipoSocietario": true,
+      "cambioTipoSocietario": false,
+      "oficinaCentral": true,
+      "operacionesInternacionales": false,
+      "impactoSocial": true,
+      "sostenibilidad": true,
+      "anioDeImplementacionImpa": "2011-09-10",
+      "sedes": [
+        {
+          "id": 1,
+          "nombre": "Pando"
+        },
+        {
+          "id": 2,
+          "nombre": "Cochabamba"
+        },
+        {
+          "id": 3,
+          "nombre": "La Paz"
+        }
+      ],
+      "paises": [
+        {
+          "id": 1,
+          "nombre": "Bolivia"
+        }
+      ],
+      "municipios": [
+        {
+          "id": 1,
+          "nombre": "Cobija"
+        },
+        {
+          "id": 2,
+          "nombre": "Cercado"
+        },
+        {
+          "id": 3,
+          "nombre": "Cercado"
+        }
+      ],
+      "ods": [
+        {
+          "id": 9,
+          "nombre": "Industria, innovación e infraestructura",
+          "proyectos": [
+            {
+              "id": 1,
+              "nombre": "Proyecto Industria, innovación e infraestructura 1"
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "nombre": "Fin de la pobreza",
+          "proyectos": [
+            {
+              "id": 1,
+              "nombre": "Proyecto Fin de la pobreza 1"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "nombre": "Hambre cero",
+          "proyectos": [
+            {
+              "id": 1,
+              "nombre": "Proyecto Hambre cero 1"
+            },
+            {
+              "id": 2,
+              "nombre": "Proyecto Hambre cero 2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "nombre": "Mundo Verde Cooperativa",
+      "fechaFundacion": "1984-03-06",
+      "tamanoEmpresa": "Grande",
+      "empresaFamiliar": false,
+      "rubro": "Agroindustria",
+      "esPropioRubro": true,
+      "cambioRubro": false,
+      "tipoSocietaria": "Empresa Individual",
+      "esPropioTipoSocietario": true,
+      "cambioTipoSocietario": false,
+      "oficinaCentral": true,
+      "operacionesInternacionales": true,
+      "impactoSocial": false,
+      "sostenibilidad": false,
+      "anioDeImplementacionImpa": null,
+      "sedes": [
+        {
+          "id": 1,
+          "nombre": "Beni"
+        },
+        {
+          "id": 2,
+          "nombre": "Santa Cruz"
+        }
+      ],
+      "paises": [
+        {
+          "id": 1,
+          "nombre": "Bolivia"
+        },
+        {
+          "id": 2,
+          "nombre": "Estados Unidos"
+        }
+      ],
+      "municipios": [
+        {
+          "id": 1,
+          "nombre": "Trinidad"
+        },
+        {
+          "id": 2,
+          "nombre": "Warnes"
+        }
+      ],
+      "ods": []
+    },
+    {
+      "id": 11,
+      "nombre": "Vision 360 S.R.L.",
+      "fechaFundacion": "2016-12-17",
+      "tamanoEmpresa": "Mediana",
+      "empresaFamiliar": true,
+      "rubro": "Finanzas",
+      "esPropioRubro": false,
+      "cambioRubro": false,
+      "tipoSocietaria": "S.A.",
+      "esPropioTipoSocietario": false,
+      "cambioTipoSocietario": false,
+      "oficinaCentral": true,
+      "operacionesInternacionales": false,
+      "impactoSocial": true,
+      "sostenibilidad": true,
+      "anioDeImplementacionImpa": null,
+      "sedes": [
+        {
+          "id": 1,
+          "nombre": "Oruro"
+        }
+      ],
+      "paises": [
+        {
+          "id": 1,
+          "nombre": "Bolivia"
+        }
+      ],
+      "municipios": [
+        {
+          "id": 1,
+          "nombre": "Oruro"
+        }
+      ],
+      "ods": [
+        {
+          "id": 11,
+          "nombre": "Ciudades y comunidades sostenibles",
+          "proyectos": [
+            {
+              "id": 1,
+              "nombre": "Proyecto Ciudades y comunidades sostenibles 1"
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "nombre": "Fin de la pobreza",
+          "proyectos": [
+            {
+              "id": 1,
+              "nombre": "Proyecto Fin de la pobreza 1"
+            },
+            {
+              "id": 2,
+              "nombre": "Proyecto Fin de la pobreza 2"
+            }
+          ]
+        },
+        {
+          "id": 15,
+          "nombre": "Vida de ecosistemas terrestres",
+          "proyectos": [
+            {
+              "id": 1,
+              "nombre": "Proyecto Vida de ecosistemas terrestres 1"
+            },
+            {
+              "id": 2,
+              "nombre": "Proyecto Vida de ecosistemas terrestres 2"
+            },
+            {
+              "id": 3,
+              "nombre": "Proyecto Vida de ecosistemas terrestres 3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "nombre": "TransLog E.I.R.L.",
+      "fechaFundacion": "1988-05-24",
+      "tamanoEmpresa": "Pequeña",
+      "empresaFamiliar": false,
+      "rubro": "Educación",
+      "esPropioRubro": true,
+      "cambioRubro": false,
+      "tipoSocietaria": "Empresa Individual",
+      "esPropioTipoSocietario": true,
+      "cambioTipoSocietario": false,
+      "oficinaCentral": true,
+      "operacionesInternacionales": false,
+      "impactoSocial": true,
+      "sostenibilidad": false,
+      "anioDeImplementacionImpa": null,
+      "sedes": [
+        {
+          "id": 1,
+          "nombre": "Pando"
+        },
+        {
+          "id": 2,
+          "nombre": "Potosí"
+        }
+      ],
+      "paises": [
+        {
+          "id": 1,
+          "nombre": "Bolivia"
+        }
+      ],
+      "municipios": [
+        {
+          "id": 1,
+          "nombre": "Cobija"
+        },
+        {
+          "id": 2,
+          "nombre": "Potosí"
+        }
+      ],
+      "ods": [
+        {
+          "id": 6,
+          "nombre": "Agua limpia y saneamiento",
+          "proyectos": [
+            {
+              "id": 1,
+              "nombre": "Proyecto Agua limpia y saneamiento 1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "nombre": "Salud Total E.I.R.L.",
+      "fechaFundacion": "1990-07-27",
+      "tamanoEmpresa": "Pequeña",
+      "empresaFamiliar": false,
+      "rubro": "Energía",
+      "esPropioRubro": true,
+      "cambioRubro": false,
+      "tipoSocietaria": "S.R.L.",
+      "esPropioTipoSocietario": true,
+      "cambioTipoSocietario": false,
+      "oficinaCentral": true,
+      "operacionesInternacionales": false,
+      "impactoSocial": true,
+      "sostenibilidad": false,
+      "anioDeImplementacionImpa": null,
+      "sedes": [
+        {
+          "id": 1,
+          "nombre": "Oruro"
+        }
+      ],
+      "paises": [
+        {
+          "id": 1,
+          "nombre": "Bolivia"
+        }
+      ],
+      "municipios": [
+        {
+          "id": 1,
+          "nombre": "Oruro"
+        }
+      ],
+      "ods": [
+        {
+          "id": 6,
+          "nombre": "Agua limpia y saneamiento",
+          "proyectos": [
+            {
+              "id": 1,
+              "nombre": "Proyecto Agua limpia y saneamiento 1"
+            },
+            {
+              "id": 2,
+              "nombre": "Proyecto Agua limpia y saneamiento 2"
+            },
+            {
+              "id": 3,
+              "nombre": "Proyecto Agua limpia y saneamiento 3"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "nombre": "Educación de calidad",
+          "proyectos": [
+            {
+              "id": 1,
+              "nombre": "Proyecto Educación de calidad 1"
+            },
+            {
+              "id": 2,
+              "nombre": "Proyecto Educación de calidad 2"
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "nombre": "Producción y consumo responsables",
+          "proyectos": [
+            {
+              "id": 1,
+              "nombre": "Proyecto Producción y consumo responsables 1"
+            },
+            {
+              "id": 2,
+              "nombre": "Proyecto Producción y consumo responsables 2"
+            },
+            {
+              "id": 3,
+              "nombre": "Proyecto Producción y consumo responsables 3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "nombre": "Mundo Verde E.I.R.L.",
+      "fechaFundacion": "1969-07-23",
+      "tamanoEmpresa": "Micro",
+      "empresaFamiliar": true,
+      "rubro": "Turismo",
+      "esPropioRubro": false,
+      "cambioRubro": false,
+      "tipoSocietaria": "S.A.",
+      "esPropioTipoSocietario": true,
+      "cambioTipoSocietario": false,
+      "oficinaCentral": true,
+      "operacionesInternacionales": false,
+      "impactoSocial": true,
+      "sostenibilidad": true,
+      "anioDeImplementacionImpa": null,
+      "sedes": [
+        {
+          "id": 1,
+          "nombre": "Chuquisaca"
+        },
+        {
+          "id": 2,
+          "nombre": "Pando"
+        }
+      ],
+      "paises": [
+        {
+          "id": 1,
+          "nombre": "Bolivia"
+        }
+      ],
+      "municipios": [
+        {
+          "id": 1,
+          "nombre": "Sucre"
+        },
+        {
+          "id": 2,
+          "nombre": "Cobija"
+        }
+      ],
+      "ods": [
+        {
+          "id": 7,
+          "nombre": "Energía asequible y no contaminante",
+          "proyectos": [
+            {
+              "id": 1,
+              "nombre": "Proyecto Energía asequible y no contaminante 1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "nombre": "Altiplano E.I.R.L.",
+      "fechaFundacion": "1997-09-18",
+      "tamanoEmpresa": "Grande",
+      "empresaFamiliar": false,
+      "rubro": "Alimentos",
+      "esPropioRubro": true,
+      "cambioRubro": false,
+      "tipoSocietaria": "S.A.",
+      "esPropioTipoSocietario": true,
+      "cambioTipoSocietario": false,
+      "oficinaCentral": true,
+      "operacionesInternacionales": false,
+      "impactoSocial": false,
+      "sostenibilidad": false,
+      "anioDeImplementacionImpa": null,
+      "sedes": [
+        {
+          "id": 1,
+          "nombre": "Oruro"
+        },
+        {
+          "id": 2,
+          "nombre": "Santa Cruz"
+        }
+      ],
+      "paises": [
+        {
+          "id": 1,
+          "nombre": "Bolivia"
+        }
+      ],
+      "municipios": [
+        {
+          "id": 1,
+          "nombre": "Oruro"
+        },
+        {
+          "id": 2,
+          "nombre": "Warnes"
+        }
+      ],
+      "ods": []
+    },
+    {
+      "id": 16,
+      "nombre": "Constructora Alta Cooperativa",
+      "fechaFundacion": "1967-03-24",
+      "tamanoEmpresa": "Pequeña",
+      "empresaFamiliar": false,
+      "rubro": "Consultoría",
+      "esPropioRubro": true,
+      "cambioRubro": false,
+      "tipoSocietaria": "S.A.",
+      "esPropioTipoSocietario": true,
+      "cambioTipoSocietario": false,
+      "oficinaCentral": true,
+      "operacionesInternacionales": true,
+      "impactoSocial": false,
+      "sostenibilidad": false,
+      "anioDeImplementacionImpa": null,
+      "sedes": [
+        {
+          "id": 1,
+          "nombre": "Beni"
+        }
+      ],
+      "paises": [
+        {
+          "id": 1,
+          "nombre": "Bolivia"
+        },
+        {
+          "id": 2,
+          "nombre": "Estados Unidos"
+        },
+        {
+          "id": 3,
+          "nombre": "Brasil"
+        }
+      ],
+      "municipios": [
+        {
+          "id": 1,
+          "nombre": "Trinidad"
+        }
+      ],
+      "ods": []
+    },
+    {
+      "id": 17,
+      "nombre": "Soyandina S.R.L.",
+      "fechaFundacion": "1982-04-30",
+      "tamanoEmpresa": "Pequeña",
+      "empresaFamiliar": true,
+      "rubro": "Construcción",
+      "esPropioRubro": true,
+      "cambioRubro": false,
+      "tipoSocietaria": "Cooperativa",
+      "esPropioTipoSocietario": true,
+      "cambioTipoSocietario": false,
+      "oficinaCentral": true,
+      "operacionesInternacionales": true,
+      "impactoSocial": true,
+      "sostenibilidad": false,
+      "anioDeImplementacionImpa": "2023-01-09",
+      "sedes": [
+        {
+          "id": 1,
+          "nombre": "Tarija"
+        }
+      ],
+      "paises": [
+        {
+          "id": 1,
+          "nombre": "Bolivia"
+        },
+        {
+          "id": 2,
+          "nombre": "Colombia"
+        },
+        {
+          "id": 3,
+          "nombre": "Ecuador"
+        }
+      ],
+      "municipios": [
+        {
+          "id": 1,
+          "nombre": "Tarija"
+        }
+      ],
+      "ods": [
+        {
+          "id": 9,
+          "nombre": "Industria, innovación e infraestructura",
+          "proyectos": [
+            {
+              "id": 1,
+              "nombre": "Proyecto Industria, innovación e infraestructura 1"
+            },
+            {
+              "id": 2,
+              "nombre": "Proyecto Industria, innovación e infraestructura 2"
+            },
+            {
+              "id": 3,
+              "nombre": "Proyecto Industria, innovación e infraestructura 3"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "nombre": "Hambre cero",
+          "proyectos": [
+            {
+              "id": 1,
+              "nombre": "Proyecto Hambre cero 1"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "nombre": "Energía asequible y no contaminante",
+          "proyectos": [
+            {
+              "id": 1,
+              "nombre": "Proyecto Energía asequible y no contaminante 1"
+            },
+            {
+              "id": 2,
+              "nombre": "Proyecto Energía asequible y no contaminante 2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "nombre": "Altiplano Cooperativa",
+      "fechaFundacion": "1965-02-25",
+      "tamanoEmpresa": "Mediana",
+      "empresaFamiliar": false,
+      "rubro": "Salud",
+      "esPropioRubro": true,
+      "cambioRubro": true,
+      "rubroAnterior": "Telecomunicaciones",
+      "tipoSocietaria": "Empresa Individual",
+      "esPropioTipoSocietario": true,
+      "cambioTipoSocietario": false,
+      "oficinaCentral": true,
+      "operacionesInternacionales": false,
+      "impactoSocial": true,
+      "sostenibilidad": false,
+      "anioDeImplementacionImpa": null,
+      "sedes": [
+        {
+          "id": 1,
+          "nombre": "Tarija"
+        }
+      ],
+      "paises": [
+        {
+          "id": 1,
+          "nombre": "Bolivia"
+        }
+      ],
+      "municipios": [
+        {
+          "id": 1,
+          "nombre": "Tarija"
+        }
+      ],
+      "ods": [
+        {
+          "id": 13,
+          "nombre": "Acción por el clima",
+          "proyectos": [
+            {
+              "id": 1,
+              "nombre": "Proyecto Acción por el clima 1"
+            },
+            {
+              "id": 2,
+              "nombre": "Proyecto Acción por el clima 2"
+            },
+            {
+              "id": 3,
+              "nombre": "Proyecto Acción por el clima 3"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "nombre": "Salud y bienestar",
+          "proyectos": [
+            {
+              "id": 1,
+              "nombre": "Proyecto Salud y bienestar 1"
+            },
+            {
+              "id": 2,
+              "nombre": "Proyecto Salud y bienestar 2"
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "nombre": "Ciudades y comunidades sostenibles",
+          "proyectos": [
+            {
+              "id": 1,
+              "nombre": "Proyecto Ciudades y comunidades sostenibles 1"
+            },
+            {
+              "id": 2,
+              "nombre": "Proyecto Ciudades y comunidades sostenibles 2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "nombre": "ModaCasa S.R.L.",
+      "fechaFundacion": "1992-04-06",
+      "tamanoEmpresa": "Pequeña",
+      "empresaFamiliar": true,
+      "rubro": "Software",
+      "esPropioRubro": true,
+      "cambioRubro": false,
+      "tipoSocietaria": "Cooperativa",
+      "esPropioTipoSocietario": true,
+      "cambioTipoSocietario": false,
+      "oficinaCentral": true,
+      "operacionesInternacionales": false,
+      "impactoSocial": false,
+      "sostenibilidad": false,
+      "anioDeImplementacionImpa": null,
+      "sedes": [
+        {
+          "id": 1,
+          "nombre": "Cochabamba"
+        }
+      ],
+      "paises": [
+        {
+          "id": 1,
+          "nombre": "Bolivia"
+        }
+      ],
+      "municipios": [
+        {
+          "id": 1,
+          "nombre": "Cercado"
+        }
+      ],
+      "ods": []
+    },
+    {
+      "id": 20,
+      "nombre": "Minera Real E.I.R.L.",
+      "fechaFundacion": "1973-05-19",
+      "tamanoEmpresa": "Grande",
+      "empresaFamiliar": false,
+      "rubro": "Energía",
+      "esPropioRubro": true,
+      "cambioRubro": false,
+      "tipoSocietaria": "S.R.L.",
+      "esPropioTipoSocietario": false,
+      "cambioTipoSocietario": false,
+      "oficinaCentral": true,
+      "operacionesInternacionales": false,
+      "impactoSocial": false,
+      "sostenibilidad": true,
+      "anioDeImplementacionImpa": null,
+      "sedes": [
+        {
+          "id": 1,
+          "nombre": "Tarija"
+        },
+        {
+          "id": 2,
+          "nombre": "Beni"
+        }
+      ],
+      "paises": [
+        {
+          "id": 1,
+          "nombre": "Bolivia"
+        }
+      ],
+      "municipios": [
+        {
+          "id": 1,
+          "nombre": "Tarija"
+        },
+        {
+          "id": 2,
+          "nombre": "Trinidad"
+        }
+      ],
+      "ods": [
+        {
+          "id": 4,
+          "nombre": "Educación de calidad",
+          "proyectos": [
+            {
+              "id": 1,
+              "nombre": "Proyecto Educación de calidad 1"
+            },
+            {
+              "id": 2,
+              "nombre": "Proyecto Educación de calidad 2"
+            },
+            {
+              "id": 3,
+              "nombre": "Proyecto Educación de calidad 3"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "nombre": "Salud y bienestar",
+          "proyectos": [
+            {
+              "id": 1,
+              "nombre": "Proyecto Salud y bienestar 1"
+            },
+            {
+              "id": 2,
+              "nombre": "Proyecto Salud y bienestar 2"
+            },
+            {
+              "id": 3,
+              "nombre": "Proyecto Salud y bienestar 3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "nombre": "Tecnosur S.R.L.",
+      "fechaFundacion": "2003-02-22",
+      "tamanoEmpresa": "Pequeña",
+      "empresaFamiliar": false,
+      "rubro": "Publicidad",
+      "esPropioRubro": true,
+      "cambioRubro": false,
+      "tipoSocietaria": "S.R.L.",
+      "esPropioTipoSocietario": true,
+      "cambioTipoSocietario": false,
+      "oficinaCentral": true,
+      "operacionesInternacionales": false,
+      "impactoSocial": false,
+      "sostenibilidad": false,
+      "anioDeImplementacionImpa": null,
+      "sedes": [
+        {
+          "id": 1,
+          "nombre": "Beni"
+        },
+        {
+          "id": 2,
+          "nombre": "Pando"
+        },
+        {
+          "id": 3,
+          "nombre": "Tarija"
+        },
+        {
+          "id": 4,
+          "nombre": "Pando"
+        }
+      ],
+      "paises": [
+        {
+          "id": 1,
+          "nombre": "Bolivia"
+        }
+      ],
+      "municipios": [
+        {
+          "id": 1,
+          "nombre": "Trinidad"
+        },
+        {
+          "id": 2,
+          "nombre": "Cobija"
+        },
+        {
+          "id": 3,
+          "nombre": "Tarija"
+        },
+        {
+          "id": 4,
+          "nombre": "Cobija"
+        }
+      ],
+      "ods": []
+    },
+    {
+      "id": 22,
+      "nombre": "MaderaPlus S.A.",
+      "fechaFundacion": "2007-08-03",
+      "tamanoEmpresa": "Mediana",
+      "empresaFamiliar": false,
+      "rubro": "Turismo",
+      "esPropioRubro": true,
+      "cambioRubro": false,
+      "tipoSocietaria": "S.A.",
+      "esPropioTipoSocietario": true,
+      "cambioTipoSocietario": true,
+      "tipoSocietariaAnterior": "Empresa Individual",
+      "oficinaCentral": true,
+      "operacionesInternacionales": true,
+      "impactoSocial": true,
+      "sostenibilidad": false,
+      "anioDeImplementacionImpa": null,
+      "sedes": [
+        {
+          "id": 1,
+          "nombre": "Santa Cruz"
+        }
+      ],
+      "paises": [
+        {
+          "id": 1,
+          "nombre": "Bolivia"
+        },
+        {
+          "id": 2,
+          "nombre": "Brasil"
+        },
+        {
+          "id": 3,
+          "nombre": "Chile"
+        },
+        {
+          "id": 4,
+          "nombre": "Paraguay"
+        }
+      ],
+      "municipios": [
+        {
+          "id": 1,
+          "nombre": "Warnes"
+        }
+      ],
+      "ods": [
+        {
+          "id": 6,
+          "nombre": "Agua limpia y saneamiento",
+          "proyectos": [
+            {
+              "id": 1,
+              "nombre": "Proyecto Agua limpia y saneamiento 1"
+            },
+            {
+              "id": 2,
+              "nombre": "Proyecto Agua limpia y saneamiento 2"
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "nombre": "Industria, innovación e infraestructura",
+          "proyectos": [
+            {
+              "id": 1,
+              "nombre": "Proyecto Industria, innovación e infraestructura 1"
+            },
+            {
+              "id": 2,
+              "nombre": "Proyecto Industria, innovación e infraestructura 2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "nombre": "Boliviana S.A.",
+      "fechaFundacion": "2002-09-11",
+      "tamanoEmpresa": "Pequeña",
+      "empresaFamiliar": false,
+      "rubro": "Tecnología",
+      "esPropioRubro": true,
+      "cambioRubro": false,
+      "tipoSocietaria": "Cooperativa",
+      "esPropioTipoSocietario": true,
+      "cambioTipoSocietario": false,
+      "oficinaCentral": true,
+      "operacionesInternacionales": true,
+      "impactoSocial": true,
+      "sostenibilidad": false,
+      "anioDeImplementacionImpa": null,
+      "sedes": [
+        {
+          "id": 1,
+          "nombre": "Potosí"
+        }
+      ],
+      "paises": [
+        {
+          "id": 1,
+          "nombre": "Bolivia"
+        },
+        {
+          "id": 2,
+          "nombre": "México"
+        },
+        {
+          "id": 3,
+          "nombre": "Perú"
+        }
+      ],
+      "municipios": [
+        {
+          "id": 1,
+          "nombre": "Potosí"
+        }
+      ],
+      "ods": [
+        {
+          "id": 6,
+          "nombre": "Agua limpia y saneamiento",
+          "proyectos": [
+            {
+              "id": 1,
+              "nombre": "Proyecto Agua limpia y saneamiento 1"
+            },
+            {
+              "id": 2,
+              "nombre": "Proyecto Agua limpia y saneamiento 2"
+            },
+            {
+              "id": 3,
+              "nombre": "Proyecto Agua limpia y saneamiento 3"
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "nombre": "Producción y consumo responsables",
+          "proyectos": [
+            {
+              "id": 1,
+              "nombre": "Proyecto Producción y consumo responsables 1"
+            },
+            {
+              "id": 2,
+              "nombre": "Proyecto Producción y consumo responsables 2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "nombre": "Manufacturas del Este S.A.",
+      "fechaFundacion": "2006-12-07",
+      "tamanoEmpresa": "Grande",
+      "empresaFamiliar": false,
+      "rubro": "Manufactura",
+      "esPropioRubro": false,
+      "cambioRubro": false,
+      "tipoSocietaria": "S.R.L.",
+      "esPropioTipoSocietario": true,
+      "cambioTipoSocietario": false,
+      "oficinaCentral": true,
+      "operacionesInternacionales": false,
+      "impactoSocial": true,
+      "sostenibilidad": true,
+      "anioDeImplementacionImpa": "2020-03-13",
+      "sedes": [
+        {
+          "id": 1,
+          "nombre": "Tarija"
+        }
+      ],
+      "paises": [
+        {
+          "id": 1,
+          "nombre": "Bolivia"
+        }
+      ],
+      "municipios": [
+        {
+          "id": 1,
+          "nombre": "Tarija"
+        }
+      ],
+      "ods": [
+        {
+          "id": 14,
+          "nombre": "Vida submarina",
+          "proyectos": [
+            {
+              "id": 1,
+              "nombre": "Proyecto Vida submarina 1"
+            },
+            {
+              "id": 2,
+              "nombre": "Proyecto Vida submarina 2"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "nombre": "Energía asequible y no contaminante",
+          "proyectos": [
+            {
+              "id": 1,
+              "nombre": "Proyecto Energía asequible y no contaminante 1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "nombre": "Distribuciones Unidas S.R.L.",
+      "fechaFundacion": "2013-05-24",
+      "tamanoEmpresa": "Micro",
+      "empresaFamiliar": false,
+      "rubro": "Educación",
+      "esPropioRubro": true,
+      "cambioRubro": false,
+      "tipoSocietaria": "S.R.L.",
+      "esPropioTipoSocietario": true,
+      "cambioTipoSocietario": false,
+      "oficinaCentral": true,
+      "operacionesInternacionales": true,
+      "impactoSocial": true,
+      "sostenibilidad": true,
+      "anioDeImplementacionImpa": null,
+      "sedes": [
+        {
+          "id": 1,
+          "nombre": "Potosí"
+        }
+      ],
+      "paises": [
+        {
+          "id": 1,
+          "nombre": "Bolivia"
+        },
+        {
+          "id": 2,
+          "nombre": "Argentina"
+        },
+        {
+          "id": 3,
+          "nombre": "Chile"
+        }
+      ],
+      "municipios": [
+        {
+          "id": 1,
+          "nombre": "Potosí"
+        }
+      ],
+      "ods": [
+        {
+          "id": 5,
+          "nombre": "Igualdad de género",
+          "proyectos": [
+            {
+              "id": 1,
+              "nombre": "Proyecto Igualdad de género 1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "nombre": "TransLog S.R.L.",
+      "fechaFundacion": "1992-12-27",
+      "tamanoEmpresa": "Mediana",
+      "empresaFamiliar": false,
+      "rubro": "Minería",
+      "esPropioRubro": true,
+      "cambioRubro": false,
+      "tipoSocietaria": "S.R.L.",
+      "esPropioTipoSocietario": true,
+      "cambioTipoSocietario": false,
+      "oficinaCentral": true,
+      "operacionesInternacionales": true,
+      "impactoSocial": false,
+      "sostenibilidad": true,
+      "anioDeImplementacionImpa": null,
+      "sedes": [
+        {
+          "id": 1,
+          "nombre": "Tarija"
+        }
+      ],
+      "paises": [
+        {
+          "id": 1,
+          "nombre": "Bolivia"
+        },
+        {
+          "id": 2,
+          "nombre": "Colombia"
+        },
+        {
+          "id": 3,
+          "nombre": "Chile"
+        },
+        {
+          "id": 4,
+          "nombre": "Estados Unidos"
+        }
+      ],
+      "municipios": [
+        {
+          "id": 1,
+          "nombre": "Tarija"
+        }
+      ],
+      "ods": [
+        {
+          "id": 6,
+          "nombre": "Agua limpia y saneamiento",
+          "proyectos": [
+            {
+              "id": 1,
+              "nombre": "Proyecto Agua limpia y saneamiento 1"
+            },
+            {
+              "id": 2,
+              "nombre": "Proyecto Agua limpia y saneamiento 2"
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "nombre": "Fin de la pobreza",
+          "proyectos": [
+            {
+              "id": 1,
+              "nombre": "Proyecto Fin de la pobreza 1"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "nombre": "Energía asequible y no contaminante",
+          "proyectos": [
+            {
+              "id": 1,
+              "nombre": "Proyecto Energía asequible y no contaminante 1"
+            },
+            {
+              "id": 2,
+              "nombre": "Proyecto Energía asequible y no contaminante 2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "nombre": "Comercial Norte Cooperativa",
+      "fechaFundacion": "1978-09-23",
+      "tamanoEmpresa": "Mediana",
+      "empresaFamiliar": false,
+      "rubro": "Turismo",
+      "esPropioRubro": true,
+      "cambioRubro": false,
+      "tipoSocietaria": "Cooperativa",
+      "esPropioTipoSocietario": true,
+      "cambioTipoSocietario": false,
+      "oficinaCentral": true,
+      "operacionesInternacionales": false,
+      "impactoSocial": true,
+      "sostenibilidad": true,
+      "anioDeImplementacionImpa": null,
+      "sedes": [
+        {
+          "id": 1,
+          "nombre": "Oruro"
+        },
+        {
+          "id": 2,
+          "nombre": "Beni"
+        },
+        {
+          "id": 3,
+          "nombre": "Tarija"
+        }
+      ],
+      "paises": [
+        {
+          "id": 1,
+          "nombre": "Bolivia"
+        }
+      ],
+      "municipios": [
+        {
+          "id": 1,
+          "nombre": "Oruro"
+        },
+        {
+          "id": 2,
+          "nombre": "Trinidad"
+        },
+        {
+          "id": 3,
+          "nombre": "Tarija"
+        }
+      ],
+      "ods": [
+        {
+          "id": 1,
+          "nombre": "Fin de la pobreza",
+          "proyectos": [
+            {
+              "id": 1,
+              "nombre": "Proyecto Fin de la pobreza 1"
+            },
+            {
+              "id": 2,
+              "nombre": "Proyecto Fin de la pobreza 2"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "nombre": "Trabajo decente y crecimiento económico",
+          "proyectos": [
+            {
+              "id": 1,
+              "nombre": "Proyecto Trabajo decente y crecimiento económico 1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "nombre": "Mundo Verde S.A.",
+      "fechaFundacion": "1996-10-31",
+      "tamanoEmpresa": "Mediana",
+      "empresaFamiliar": true,
+      "rubro": "Gastronomía",
+      "esPropioRubro": true,
+      "cambioRubro": false,
+      "tipoSocietaria": "S.R.L.",
+      "esPropioTipoSocietario": true,
+      "cambioTipoSocietario": false,
+      "oficinaCentral": true,
+      "operacionesInternacionales": true,
+      "impactoSocial": true,
+      "sostenibilidad": false,
+      "anioDeImplementacionImpa": "2020-09-05",
+      "sedes": [
+        {
+          "id": 1,
+          "nombre": "La Paz"
+        }
+      ],
+      "paises": [
+        {
+          "id": 1,
+          "nombre": "Bolivia"
+        },
+        {
+          "id": 2,
+          "nombre": "Estados Unidos"
+        }
+      ],
+      "municipios": [
+        {
+          "id": 1,
+          "nombre": "Cercado"
+        }
+      ],
+      "ods": [
+        {
+          "id": 7,
+          "nombre": "Energía asequible y no contaminante",
+          "proyectos": [
+            {
+              "id": 1,
+              "nombre": "Proyecto Energía asequible y no contaminante 1"
+            },
+            {
+              "id": 2,
+              "nombre": "Proyecto Energía asequible y no contaminante 2"
+            },
+            {
+              "id": 3,
+              "nombre": "Proyecto Energía asequible y no contaminante 3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "nombre": "Salud Total E.I.R.L.",
+      "fechaFundacion": "2017-03-05",
+      "tamanoEmpresa": "Pequeña",
+      "empresaFamiliar": true,
+      "rubro": "Telecomunicaciones",
+      "esPropioRubro": true,
+      "cambioRubro": false,
+      "tipoSocietaria": "Empresa Individual",
+      "esPropioTipoSocietario": true,
+      "cambioTipoSocietario": false,
+      "oficinaCentral": true,
+      "operacionesInternacionales": true,
+      "impactoSocial": true,
+      "sostenibilidad": false,
+      "anioDeImplementacionImpa": null,
+      "sedes": [
+        {
+          "id": 1,
+          "nombre": "Beni"
+        }
+      ],
+      "paises": [
+        {
+          "id": 1,
+          "nombre": "Bolivia"
+        },
+        {
+          "id": 2,
+          "nombre": "Paraguay"
+        },
+        {
+          "id": 3,
+          "nombre": "Estados Unidos"
+        }
+      ],
+      "municipios": [
+        {
+          "id": 1,
+          "nombre": "Trinidad"
+        }
+      ],
+      "ods": [
+        {
+          "id": 15,
+          "nombre": "Vida de ecosistemas terrestres",
+          "proyectos": [
+            {
+              "id": 1,
+              "nombre": "Proyecto Vida de ecosistemas terrestres 1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "nombre": "Minera Real S.A.",
+      "fechaFundacion": "1997-05-18",
+      "tamanoEmpresa": "Pequeña",
+      "empresaFamiliar": true,
+      "rubro": "Manufactura",
+      "esPropioRubro": true,
+      "cambioRubro": true,
+      "rubroAnterior": "Alimentos",
+      "tipoSocietaria": "Empresa Individual",
+      "esPropioTipoSocietario": true,
+      "cambioTipoSocietario": false,
+      "oficinaCentral": true,
+      "operacionesInternacionales": false,
+      "impactoSocial": true,
+      "sostenibilidad": false,
+      "anioDeImplementacionImpa": "2020-07-12",
+      "sedes": [
+        {
+          "id": 1,
+          "nombre": "Santa Cruz"
+        }
+      ],
+      "paises": [
+        {
+          "id": 1,
+          "nombre": "Bolivia"
+        }
+      ],
+      "municipios": [
+        {
+          "id": 1,
+          "nombre": "Warnes"
+        }
+      ],
+      "ods": [
+        {
+          "id": 5,
+          "nombre": "Igualdad de género",
+          "proyectos": [
+            {
+              "id": 1,
+              "nombre": "Proyecto Igualdad de género 1"
+            },
+            {
+              "id": 2,
+              "nombre": "Proyecto Igualdad de género 2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "nombre": "Soluciones S.R.L.",
+      "fechaFundacion": "2000-12-13",
+      "tamanoEmpresa": "Mediana",
+      "empresaFamiliar": true,
+      "rubro": "Alimentos",
+      "esPropioRubro": true,
+      "cambioRubro": false,
+      "tipoSocietaria": "Empresa Individual",
+      "esPropioTipoSocietario": true,
+      "cambioTipoSocietario": false,
+      "oficinaCentral": true,
+      "operacionesInternacionales": false,
+      "impactoSocial": true,
+      "sostenibilidad": false,
+      "anioDeImplementacionImpa": "2021-09-20",
+      "sedes": [
+        {
+          "id": 1,
+          "nombre": "Beni"
+        }
+      ],
+      "paises": [
+        {
+          "id": 1,
+          "nombre": "Bolivia"
+        }
+      ],
+      "municipios": [
+        {
+          "id": 1,
+          "nombre": "Trinidad"
+        }
+      ],
+      "ods": [
+        {
+          "id": 15,
+          "nombre": "Vida de ecosistemas terrestres",
+          "proyectos": [
+            {
+              "id": 1,
+              "nombre": "Proyecto Vida de ecosistemas terrestres 1"
+            },
+            {
+              "id": 2,
+              "nombre": "Proyecto Vida de ecosistemas terrestres 2"
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "nombre": "Ciudades y comunidades sostenibles",
+          "proyectos": [
+            {
+              "id": 1,
+              "nombre": "Proyecto Ciudades y comunidades sostenibles 1"
+            },
+            {
+              "id": 2,
+              "nombre": "Proyecto Ciudades y comunidades sostenibles 2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "nombre": "ConstruyeMax S.R.L.",
+      "fechaFundacion": "2019-09-11",
+      "tamanoEmpresa": "Grande",
+      "empresaFamiliar": true,
+      "rubro": "Salud",
+      "esPropioRubro": true,
+      "cambioRubro": false,
+      "tipoSocietaria": "S.R.L.",
+      "esPropioTipoSocietario": true,
+      "cambioTipoSocietario": false,
+      "oficinaCentral": true,
+      "operacionesInternacionales": true,
+      "impactoSocial": true,
+      "sostenibilidad": true,
+      "anioDeImplementacionImpa": null,
+      "sedes": [
+        {
+          "id": 1,
+          "nombre": "Potosí"
+        }
+      ],
+      "paises": [
+        {
+          "id": 1,
+          "nombre": "Bolivia"
+        },
+        {
+          "id": 2,
+          "nombre": "México"
+        },
+        {
+          "id": 3,
+          "nombre": "Chile"
+        },
+        {
+          "id": 4,
+          "nombre": "Colombia"
+        }
+      ],
+      "municipios": [
+        {
+          "id": 1,
+          "nombre": "Potosí"
+        }
+      ],
+      "ods": [
+        {
+          "id": 5,
+          "nombre": "Igualdad de género",
+          "proyectos": [
+            {
+              "id": 1,
+              "nombre": "Proyecto Igualdad de género 1"
+            },
+            {
+              "id": 2,
+              "nombre": "Proyecto Igualdad de género 2"
+            },
+            {
+              "id": 3,
+              "nombre": "Proyecto Igualdad de género 3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "nombre": "TransLog S.A.",
+      "fechaFundacion": "2003-02-21",
+      "tamanoEmpresa": "Pequeña",
+      "empresaFamiliar": true,
+      "rubro": "Transporte",
+      "esPropioRubro": true,
+      "cambioRubro": false,
+      "tipoSocietaria": "S.R.L.",
+      "esPropioTipoSocietario": false,
+      "cambioTipoSocietario": false,
+      "oficinaCentral": true,
+      "operacionesInternacionales": false,
+      "impactoSocial": false,
+      "sostenibilidad": false,
+      "anioDeImplementacionImpa": null,
+      "sedes": [
+        {
+          "id": 1,
+          "nombre": "Beni"
+        }
+      ],
+      "paises": [
+        {
+          "id": 1,
+          "nombre": "Bolivia"
+        }
+      ],
+      "municipios": [
+        {
+          "id": 1,
+          "nombre": "Trinidad"
+        }
+      ],
+      "ods": []
+    },
+    {
+      "id": 34,
+      "nombre": "TelecomRed E.I.R.L.",
+      "fechaFundacion": "2001-02-10",
+      "tamanoEmpresa": "Grande",
+      "empresaFamiliar": true,
+      "rubro": "Logística",
+      "esPropioRubro": true,
+      "cambioRubro": false,
+      "tipoSocietaria": "Cooperativa",
+      "esPropioTipoSocietario": true,
+      "cambioTipoSocietario": false,
+      "oficinaCentral": true,
+      "operacionesInternacionales": true,
+      "impactoSocial": true,
+      "sostenibilidad": false,
+      "anioDeImplementacionImpa": null,
+      "sedes": [
+        {
+          "id": 1,
+          "nombre": "Potosí"
+        },
+        {
+          "id": 2,
+          "nombre": "La Paz"
+        },
+        {
+          "id": 3,
+          "nombre": "Santa Cruz"
+        },
+        {
+          "id": 4,
+          "nombre": "Beni"
+        }
+      ],
+      "paises": [
+        {
+          "id": 1,
+          "nombre": "Bolivia"
+        },
+        {
+          "id": 2,
+          "nombre": "México"
+        },
+        {
+          "id": 3,
+          "nombre": "Estados Unidos"
+        },
+        {
+          "id": 4,
+          "nombre": "Chile"
+        }
+      ],
+      "municipios": [
+        {
+          "id": 1,
+          "nombre": "Potosí"
+        },
+        {
+          "id": 2,
+          "nombre": "Cercado"
+        },
+        {
+          "id": 3,
+          "nombre": "Warnes"
+        },
+        {
+          "id": 4,
+          "nombre": "Trinidad"
+        }
+      ],
+      "ods": [
+        {
+          "id": 7,
+          "nombre": "Energía asequible y no contaminante",
+          "proyectos": [
+            {
+              "id": 1,
+              "nombre": "Proyecto Energía asequible y no contaminante 1"
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "nombre": "Producción y consumo responsables",
+          "proyectos": [
+            {
+              "id": 1,
+              "nombre": "Proyecto Producción y consumo responsables 1"
+            },
+            {
+              "id": 2,
+              "nombre": "Proyecto Producción y consumo responsables 2"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "nombre": "Trabajo decente y crecimiento económico",
+          "proyectos": [
+            {
+              "id": 1,
+              "nombre": "Proyecto Trabajo decente y crecimiento económico 1"
+            },
+            {
+              "id": 2,
+              "nombre": "Proyecto Trabajo decente y crecimiento económico 2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "nombre": "BioFarm E.I.R.L.",
+      "fechaFundacion": "1993-10-21",
+      "tamanoEmpresa": "Mediana",
+      "empresaFamiliar": false,
+      "rubro": "Finanzas",
+      "esPropioRubro": true,
+      "cambioRubro": false,
+      "tipoSocietaria": "Cooperativa",
+      "esPropioTipoSocietario": true,
+      "cambioTipoSocietario": false,
+      "oficinaCentral": true,
+      "operacionesInternacionales": false,
+      "impactoSocial": true,
+      "sostenibilidad": true,
+      "anioDeImplementacionImpa": null,
+      "sedes": [
+        {
+          "id": 1,
+          "nombre": "La Paz"
+        },
+        {
+          "id": 2,
+          "nombre": "Pando"
+        },
+        {
+          "id": 3,
+          "nombre": "Beni"
+        }
+      ],
+      "paises": [
+        {
+          "id": 1,
+          "nombre": "Bolivia"
+        }
+      ],
+      "municipios": [
+        {
+          "id": 1,
+          "nombre": "Cercado"
+        },
+        {
+          "id": 2,
+          "nombre": "Cobija"
+        },
+        {
+          "id": 3,
+          "nombre": "Trinidad"
+        }
+      ],
+      "ods": [
+        {
+          "id": 1,
+          "nombre": "Fin de la pobreza",
+          "proyectos": [
+            {
+              "id": 1,
+              "nombre": "Proyecto Fin de la pobreza 1"
+            },
+            {
+              "id": 2,
+              "nombre": "Proyecto Fin de la pobreza 2"
+            },
+            {
+              "id": 3,
+              "nombre": "Proyecto Fin de la pobreza 3"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "nombre": "Educación de calidad",
+          "proyectos": [
+            {
+              "id": 1,
+              "nombre": "Proyecto Educación de calidad 1"
+            },
+            {
+              "id": 2,
+              "nombre": "Proyecto Educación de calidad 2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "nombre": "Clinica Integral Cooperativa",
+      "fechaFundacion": "2004-08-28",
+      "tamanoEmpresa": "Mediana",
+      "empresaFamiliar": true,
+      "rubro": "Manufactura",
+      "esPropioRubro": true,
+      "cambioRubro": false,
+      "tipoSocietaria": "Cooperativa",
+      "esPropioTipoSocietario": true,
+      "cambioTipoSocietario": false,
+      "oficinaCentral": true,
+      "operacionesInternacionales": false,
+      "impactoSocial": true,
+      "sostenibilidad": true,
+      "anioDeImplementacionImpa": "2022-05-22",
+      "sedes": [
+        {
+          "id": 1,
+          "nombre": "Cochabamba"
+        }
+      ],
+      "paises": [
+        {
+          "id": 1,
+          "nombre": "Bolivia"
+        }
+      ],
+      "municipios": [
+        {
+          "id": 1,
+          "nombre": "Cercado"
+        }
+      ],
+      "ods": [
+        {
+          "id": 2,
+          "nombre": "Hambre cero",
+          "proyectos": [
+            {
+              "id": 1,
+              "nombre": "Proyecto Hambre cero 1"
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "nombre": "Producción y consumo responsables",
+          "proyectos": [
+            {
+              "id": 1,
+              "nombre": "Proyecto Producción y consumo responsables 1"
+            },
+            {
+              "id": 2,
+              "nombre": "Proyecto Producción y consumo responsables 2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "nombre": "Publicidad Creativa E.I.R.L.",
+      "fechaFundacion": "2010-08-27",
+      "tamanoEmpresa": "Mediana",
+      "empresaFamiliar": true,
+      "rubro": "Logística",
+      "esPropioRubro": true,
+      "cambioRubro": false,
+      "tipoSocietaria": "S.A.",
+      "esPropioTipoSocietario": true,
+      "cambioTipoSocietario": false,
+      "oficinaCentral": true,
+      "operacionesInternacionales": false,
+      "impactoSocial": false,
+      "sostenibilidad": false,
+      "anioDeImplementacionImpa": null,
+      "sedes": [
+        {
+          "id": 1,
+          "nombre": "Tarija"
+        }
+      ],
+      "paises": [
+        {
+          "id": 1,
+          "nombre": "Bolivia"
+        }
+      ],
+      "municipios": [
+        {
+          "id": 1,
+          "nombre": "Tarija"
+        }
+      ],
+      "ods": []
+    },
+    {
+      "id": 38,
+      "nombre": "SoftIdeas E.I.R.L.",
+      "fechaFundacion": "1965-03-26",
+      "tamanoEmpresa": "Pequeña",
+      "empresaFamiliar": true,
+      "rubro": "Software",
+      "esPropioRubro": true,
+      "cambioRubro": false,
+      "tipoSocietaria": "S.A.",
+      "esPropioTipoSocietario": true,
+      "cambioTipoSocietario": false,
+      "oficinaCentral": true,
+      "operacionesInternacionales": true,
+      "impactoSocial": false,
+      "sostenibilidad": true,
+      "anioDeImplementacionImpa": null,
+      "sedes": [
+        {
+          "id": 1,
+          "nombre": "Oruro"
+        },
+        {
+          "id": 2,
+          "nombre": "Tarija"
+        },
+        {
+          "id": 3,
+          "nombre": "Oruro"
+        },
+        {
+          "id": 4,
+          "nombre": "Tarija"
+        }
+      ],
+      "paises": [
+        {
+          "id": 1,
+          "nombre": "Bolivia"
+        },
+        {
+          "id": 2,
+          "nombre": "Colombia"
+        }
+      ],
+      "municipios": [
+        {
+          "id": 1,
+          "nombre": "Oruro"
+        },
+        {
+          "id": 2,
+          "nombre": "Tarija"
+        },
+        {
+          "id": 3,
+          "nombre": "Oruro"
+        },
+        {
+          "id": 4,
+          "nombre": "Tarija"
+        }
+      ],
+      "ods": [
+        {
+          "id": 8,
+          "nombre": "Trabajo decente y crecimiento económico",
+          "proyectos": [
+            {
+              "id": 1,
+              "nombre": "Proyecto Trabajo decente y crecimiento económico 1"
+            },
+            {
+              "id": 2,
+              "nombre": "Proyecto Trabajo decente y crecimiento económico 2"
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "nombre": "Acción por el clima",
+          "proyectos": [
+            {
+              "id": 1,
+              "nombre": "Proyecto Acción por el clima 1"
+            },
+            {
+              "id": 2,
+              "nombre": "Proyecto Acción por el clima 2"
+            },
+            {
+              "id": 3,
+              "nombre": "Proyecto Acción por el clima 3"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "nombre": "Energía asequible y no contaminante",
+          "proyectos": [
+            {
+              "id": 1,
+              "nombre": "Proyecto Energía asequible y no contaminante 1"
+            },
+            {
+              "id": 2,
+              "nombre": "Proyecto Energía asequible y no contaminante 2"
+            },
+            {
+              "id": 3,
+              "nombre": "Proyecto Energía asequible y no contaminante 3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "nombre": "Intercom Cooperativa",
+      "fechaFundacion": "1968-04-28",
+      "tamanoEmpresa": "Pequeña",
+      "empresaFamiliar": false,
+      "rubro": "Finanzas",
+      "esPropioRubro": true,
+      "cambioRubro": false,
+      "tipoSocietaria": "Cooperativa",
+      "esPropioTipoSocietario": true,
+      "cambioTipoSocietario": false,
+      "oficinaCentral": true,
+      "operacionesInternacionales": true,
+      "impactoSocial": true,
+      "sostenibilidad": false,
+      "anioDeImplementacionImpa": null,
+      "sedes": [
+        {
+          "id": 1,
+          "nombre": "Potosí"
+        }
+      ],
+      "paises": [
+        {
+          "id": 1,
+          "nombre": "Bolivia"
+        },
+        {
+          "id": 2,
+          "nombre": "Ecuador"
+        },
+        {
+          "id": 3,
+          "nombre": "Chile"
+        }
+      ],
+      "municipios": [
+        {
+          "id": 1,
+          "nombre": "Potosí"
+        }
+      ],
+      "ods": [
+        {
+          "id": 15,
+          "nombre": "Vida de ecosistemas terrestres",
+          "proyectos": [
+            {
+              "id": 1,
+              "nombre": "Proyecto Vida de ecosistemas terrestres 1"
+            },
+            {
+              "id": 2,
+              "nombre": "Proyecto Vida de ecosistemas terrestres 2"
+            },
+            {
+              "id": 3,
+              "nombre": "Proyecto Vida de ecosistemas terrestres 3"
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "nombre": "Producción y consumo responsables",
+          "proyectos": [
+            {
+              "id": 1,
+              "nombre": "Proyecto Producción y consumo responsables 1"
+            },
+            {
+              "id": 2,
+              "nombre": "Proyecto Producción y consumo responsables 2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "nombre": "LogiExpress Cooperativa",
+      "fechaFundacion": "2013-07-16",
+      "tamanoEmpresa": "Micro",
+      "empresaFamiliar": true,
+      "rubro": "Energía",
+      "esPropioRubro": true,
+      "cambioRubro": false,
+      "tipoSocietaria": "Cooperativa",
+      "esPropioTipoSocietario": true,
+      "cambioTipoSocietario": false,
+      "oficinaCentral": true,
+      "operacionesInternacionales": false,
+      "impactoSocial": true,
+      "sostenibilidad": true,
+      "anioDeImplementacionImpa": null,
+      "sedes": [
+        {
+          "id": 1,
+          "nombre": "La Paz"
+        }
+      ],
+      "paises": [
+        {
+          "id": 1,
+          "nombre": "Bolivia"
+        }
+      ],
+      "municipios": [
+        {
+          "id": 1,
+          "nombre": "Cercado"
+        }
+      ],
+      "ods": [
+        {
+          "id": 6,
+          "nombre": "Agua limpia y saneamiento",
+          "proyectos": [
+            {
+              "id": 1,
+              "nombre": "Proyecto Agua limpia y saneamiento 1"
+            },
+            {
+              "id": 2,
+              "nombre": "Proyecto Agua limpia y saneamiento 2"
+            }
+          ]
+        },
+        {
+          "id": 15,
+          "nombre": "Vida de ecosistemas terrestres",
+          "proyectos": [
+            {
+              "id": 1,
+              "nombre": "Proyecto Vida de ecosistemas terrestres 1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "nombre": "Salud Total Cooperativa",
+      "fechaFundacion": "2015-10-10",
+      "tamanoEmpresa": "Mediana",
+      "empresaFamiliar": true,
+      "rubro": "Agroindustria",
+      "esPropioRubro": false,
+      "cambioRubro": false,
+      "tipoSocietaria": "S.A.",
+      "esPropioTipoSocietario": true,
+      "cambioTipoSocietario": false,
+      "oficinaCentral": true,
+      "operacionesInternacionales": true,
+      "impactoSocial": false,
+      "sostenibilidad": true,
+      "anioDeImplementacionImpa": "2020-06-08",
+      "sedes": [
+        {
+          "id": 1,
+          "nombre": "Santa Cruz"
+        },
+        {
+          "id": 2,
+          "nombre": "Cochabamba"
+        }
+      ],
+      "paises": [
+        {
+          "id": 1,
+          "nombre": "Bolivia"
+        },
+        {
+          "id": 2,
+          "nombre": "Colombia"
+        },
+        {
+          "id": 3,
+          "nombre": "Estados Unidos"
+        }
+      ],
+      "municipios": [
+        {
+          "id": 1,
+          "nombre": "Warnes"
+        },
+        {
+          "id": 2,
+          "nombre": "Cercado"
+        }
+      ],
+      "ods": [
+        {
+          "id": 7,
+          "nombre": "Energía asequible y no contaminante",
+          "proyectos": [
+            {
+              "id": 1,
+              "nombre": "Proyecto Energía asequible y no contaminante 1"
+            },
+            {
+              "id": 2,
+              "nombre": "Proyecto Energía asequible y no contaminante 2"
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "nombre": "Acción por el clima",
+          "proyectos": [
+            {
+              "id": 1,
+              "nombre": "Proyecto Acción por el clima 1"
+            },
+            {
+              "id": 2,
+              "nombre": "Proyecto Acción por el clima 2"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "nombre": "Igualdad de género",
+          "proyectos": [
+            {
+              "id": 1,
+              "nombre": "Proyecto Igualdad de género 1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "nombre": "Industria Moderna Cooperativa",
+      "fechaFundacion": "1974-07-27",
+      "tamanoEmpresa": "Pequeña",
+      "empresaFamiliar": true,
+      "rubro": "Software",
+      "esPropioRubro": true,
+      "cambioRubro": false,
+      "tipoSocietaria": "S.R.L.",
+      "esPropioTipoSocietario": true,
+      "cambioTipoSocietario": false,
+      "oficinaCentral": true,
+      "operacionesInternacionales": true,
+      "impactoSocial": true,
+      "sostenibilidad": false,
+      "anioDeImplementacionImpa": "2011-02-06",
+      "sedes": [
+        {
+          "id": 1,
+          "nombre": "Potosí"
+        },
+        {
+          "id": 2,
+          "nombre": "Oruro"
+        },
+        {
+          "id": 3,
+          "nombre": "Chuquisaca"
+        }
+      ],
+      "paises": [
+        {
+          "id": 1,
+          "nombre": "Bolivia"
+        },
+        {
+          "id": 2,
+          "nombre": "Brasil"
+        }
+      ],
+      "municipios": [
+        {
+          "id": 1,
+          "nombre": "Potosí"
+        },
+        {
+          "id": 2,
+          "nombre": "Oruro"
+        },
+        {
+          "id": 3,
+          "nombre": "Sucre"
+        }
+      ],
+      "ods": [
+        {
+          "id": 5,
+          "nombre": "Igualdad de género",
+          "proyectos": [
+            {
+              "id": 1,
+              "nombre": "Proyecto Igualdad de género 1"
+            },
+            {
+              "id": 2,
+              "nombre": "Proyecto Igualdad de género 2"
+            },
+            {
+              "id": 3,
+              "nombre": "Proyecto Igualdad de género 3"
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "nombre": "Producción y consumo responsables",
+          "proyectos": [
+            {
+              "id": 1,
+              "nombre": "Proyecto Producción y consumo responsables 1"
+            },
+            {
+              "id": 2,
+              "nombre": "Proyecto Producción y consumo responsables 2"
+            },
+            {
+              "id": 3,
+              "nombre": "Proyecto Producción y consumo responsables 3"
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "nombre": "Acción por el clima",
+          "proyectos": [
+            {
+              "id": 1,
+              "nombre": "Proyecto Acción por el clima 1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "nombre": "Hotel PlazaBol S.R.L.",
+      "fechaFundacion": "1968-07-15",
+      "tamanoEmpresa": "Pequeña",
+      "empresaFamiliar": true,
+      "rubro": "Software",
+      "esPropioRubro": true,
+      "cambioRubro": false,
+      "tipoSocietaria": "Empresa Individual",
+      "esPropioTipoSocietario": true,
+      "cambioTipoSocietario": false,
+      "oficinaCentral": true,
+      "operacionesInternacionales": true,
+      "impactoSocial": false,
+      "sostenibilidad": false,
+      "anioDeImplementacionImpa": null,
+      "sedes": [
+        {
+          "id": 1,
+          "nombre": "Pando"
+        }
+      ],
+      "paises": [
+        {
+          "id": 1,
+          "nombre": "Bolivia"
+        },
+        {
+          "id": 2,
+          "nombre": "Argentina"
+        },
+        {
+          "id": 3,
+          "nombre": "Estados Unidos"
+        }
+      ],
+      "municipios": [
+        {
+          "id": 1,
+          "nombre": "Cobija"
+        }
+      ],
+      "ods": []
+    },
+    {
+      "id": 44,
+      "nombre": "Distribuciones Unidas E.I.R.L.",
+      "fechaFundacion": "1995-05-23",
+      "tamanoEmpresa": "Grande",
+      "empresaFamiliar": true,
+      "rubro": "Construcción",
+      "esPropioRubro": true,
+      "cambioRubro": false,
+      "tipoSocietaria": "Cooperativa",
+      "esPropioTipoSocietario": true,
+      "cambioTipoSocietario": false,
+      "oficinaCentral": true,
+      "operacionesInternacionales": false,
+      "impactoSocial": false,
+      "sostenibilidad": true,
+      "anioDeImplementacionImpa": "2020-03-14",
+      "sedes": [
+        {
+          "id": 1,
+          "nombre": "Potosí"
+        },
+        {
+          "id": 2,
+          "nombre": "Tarija"
+        }
+      ],
+      "paises": [
+        {
+          "id": 1,
+          "nombre": "Bolivia"
+        }
+      ],
+      "municipios": [
+        {
+          "id": 1,
+          "nombre": "Potosí"
+        },
+        {
+          "id": 2,
+          "nombre": "Tarija"
+        }
+      ],
+      "ods": [
+        {
+          "id": 6,
+          "nombre": "Agua limpia y saneamiento",
+          "proyectos": [
+            {
+              "id": 1,
+              "nombre": "Proyecto Agua limpia y saneamiento 1"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "nombre": "Hambre cero",
+          "proyectos": [
+            {
+              "id": 1,
+              "nombre": "Proyecto Hambre cero 1"
+            },
+            {
+              "id": 2,
+              "nombre": "Proyecto Hambre cero 2"
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "nombre": "Producción y consumo responsables",
+          "proyectos": [
+            {
+              "id": 1,
+              "nombre": "Proyecto Producción y consumo responsables 1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "nombre": "Clinica Integral E.I.R.L.",
+      "fechaFundacion": "2019-09-26",
+      "tamanoEmpresa": "Pequeña",
+      "empresaFamiliar": true,
+      "rubro": "Comercio",
+      "esPropioRubro": true,
+      "cambioRubro": false,
+      "tipoSocietaria": "Cooperativa",
+      "esPropioTipoSocietario": true,
+      "cambioTipoSocietario": true,
+      "tipoSocietariaAnterior": "S.R.L.",
+      "oficinaCentral": true,
+      "operacionesInternacionales": true,
+      "impactoSocial": true,
+      "sostenibilidad": true,
+      "anioDeImplementacionImpa": null,
+      "sedes": [
+        {
+          "id": 1,
+          "nombre": "Chuquisaca"
+        }
+      ],
+      "paises": [
+        {
+          "id": 1,
+          "nombre": "Bolivia"
+        },
+        {
+          "id": 2,
+          "nombre": "Paraguay"
+        },
+        {
+          "id": 3,
+          "nombre": "Ecuador"
+        },
+        {
+          "id": 4,
+          "nombre": "Estados Unidos"
+        }
+      ],
+      "municipios": [
+        {
+          "id": 1,
+          "nombre": "Sucre"
+        }
+      ],
+      "ods": [
+        {
+          "id": 13,
+          "nombre": "Acción por el clima",
+          "proyectos": [
+            {
+              "id": 1,
+              "nombre": "Proyecto Acción por el clima 1"
+            },
+            {
+              "id": 2,
+              "nombre": "Proyecto Acción por el clima 2"
+            },
+            {
+              "id": 3,
+              "nombre": "Proyecto Acción por el clima 3"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "nombre": "Salud y bienestar",
+          "proyectos": [
+            {
+              "id": 1,
+              "nombre": "Proyecto Salud y bienestar 1"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "nombre": "Energía asequible y no contaminante",
+          "proyectos": [
+            {
+              "id": 1,
+              "nombre": "Proyecto Energía asequible y no contaminante 1"
+            },
+            {
+              "id": 2,
+              "nombre": "Proyecto Energía asequible y no contaminante 2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "nombre": "Clinica Integral Cooperativa",
+      "fechaFundacion": "1990-02-05",
+      "tamanoEmpresa": "Micro",
+      "empresaFamiliar": true,
+      "rubro": "Comercio",
+      "esPropioRubro": true,
+      "cambioRubro": false,
+      "tipoSocietaria": "Empresa Individual",
+      "esPropioTipoSocietario": true,
+      "cambioTipoSocietario": false,
+      "oficinaCentral": true,
+      "operacionesInternacionales": false,
+      "impactoSocial": false,
+      "sostenibilidad": true,
+      "anioDeImplementacionImpa": null,
+      "sedes": [
+        {
+          "id": 1,
+          "nombre": "Beni"
+        },
+        {
+          "id": 2,
+          "nombre": "Cochabamba"
+        },
+        {
+          "id": 3,
+          "nombre": "Oruro"
+        }
+      ],
+      "paises": [
+        {
+          "id": 1,
+          "nombre": "Bolivia"
+        }
+      ],
+      "municipios": [
+        {
+          "id": 1,
+          "nombre": "Trinidad"
+        },
+        {
+          "id": 2,
+          "nombre": "Cercado"
+        },
+        {
+          "id": 3,
+          "nombre": "Oruro"
+        }
+      ],
+      "ods": [
+        {
+          "id": 12,
+          "nombre": "Producción y consumo responsables",
+          "proyectos": [
+            {
+              "id": 1,
+              "nombre": "Proyecto Producción y consumo responsables 1"
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "nombre": "Ciudades y comunidades sostenibles",
+          "proyectos": [
+            {
+              "id": 1,
+              "nombre": "Proyecto Ciudades y comunidades sostenibles 1"
+            },
+            {
+              "id": 2,
+              "nombre": "Proyecto Ciudades y comunidades sostenibles 2"
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "nombre": "Fin de la pobreza",
+          "proyectos": [
+            {
+              "id": 1,
+              "nombre": "Proyecto Fin de la pobreza 1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "nombre": "Delizia S.A.",
+      "fechaFundacion": "1971-02-27",
+      "tamanoEmpresa": "Grande",
+      "empresaFamiliar": true,
+      "rubro": "Software",
+      "esPropioRubro": true,
+      "cambioRubro": false,
+      "tipoSocietaria": "Empresa Individual",
+      "esPropioTipoSocietario": true,
+      "cambioTipoSocietario": false,
+      "oficinaCentral": true,
+      "operacionesInternacionales": false,
+      "impactoSocial": true,
+      "sostenibilidad": false,
+      "anioDeImplementacionImpa": null,
+      "sedes": [
+        {
+          "id": 1,
+          "nombre": "Cochabamba"
+        },
+        {
+          "id": 2,
+          "nombre": "La Paz"
+        }
+      ],
+      "paises": [
+        {
+          "id": 1,
+          "nombre": "Bolivia"
+        }
+      ],
+      "municipios": [
+        {
+          "id": 1,
+          "nombre": "Cercado"
+        },
+        {
+          "id": 2,
+          "nombre": "Cercado"
+        }
+      ],
+      "ods": [
+        {
+          "id": 1,
+          "nombre": "Fin de la pobreza",
+          "proyectos": [
+            {
+              "id": 1,
+              "nombre": "Proyecto Fin de la pobreza 1"
+            },
+            {
+              "id": 2,
+              "nombre": "Proyecto Fin de la pobreza 2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "nombre": "Importadora Central S.A.",
+      "fechaFundacion": "2017-10-30",
+      "tamanoEmpresa": "Pequeña",
+      "empresaFamiliar": true,
+      "rubro": "Alimentos",
+      "esPropioRubro": true,
+      "cambioRubro": false,
+      "tipoSocietaria": "S.R.L.",
+      "esPropioTipoSocietario": true,
+      "cambioTipoSocietario": false,
+      "oficinaCentral": true,
+      "operacionesInternacionales": false,
+      "impactoSocial": true,
+      "sostenibilidad": true,
+      "anioDeImplementacionImpa": null,
+      "sedes": [
+        {
+          "id": 1,
+          "nombre": "Pando"
+        },
+        {
+          "id": 2,
+          "nombre": "Potosí"
+        }
+      ],
+      "paises": [
+        {
+          "id": 1,
+          "nombre": "Bolivia"
+        }
+      ],
+      "municipios": [
+        {
+          "id": 1,
+          "nombre": "Cobija"
+        },
+        {
+          "id": 2,
+          "nombre": "Potosí"
+        }
+      ],
+      "ods": [
+        {
+          "id": 12,
+          "nombre": "Producción y consumo responsables",
+          "proyectos": [
+            {
+              "id": 1,
+              "nombre": "Proyecto Producción y consumo responsables 1"
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "nombre": "Fin de la pobreza",
+          "proyectos": [
+            {
+              "id": 1,
+              "nombre": "Proyecto Fin de la pobreza 1"
+            },
+            {
+              "id": 2,
+              "nombre": "Proyecto Fin de la pobreza 2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "nombre": "Servicios Globales Cooperativa",
+      "fechaFundacion": "1974-09-08",
+      "tamanoEmpresa": "Mediana",
+      "empresaFamiliar": false,
+      "rubro": "Construcción",
+      "esPropioRubro": true,
+      "cambioRubro": false,
+      "tipoSocietaria": "S.A.",
+      "esPropioTipoSocietario": false,
+      "cambioTipoSocietario": false,
+      "oficinaCentral": true,
+      "operacionesInternacionales": false,
+      "impactoSocial": true,
+      "sostenibilidad": true,
+      "anioDeImplementacionImpa": null,
+      "sedes": [
+        {
+          "id": 1,
+          "nombre": "Tarija"
+        }
+      ],
+      "paises": [
+        {
+          "id": 1,
+          "nombre": "Bolivia"
+        }
+      ],
+      "municipios": [
+        {
+          "id": 1,
+          "nombre": "Tarija"
+        }
+      ],
+      "ods": [
+        {
+          "id": 14,
+          "nombre": "Vida submarina",
+          "proyectos": [
+            {
+              "id": 1,
+              "nombre": "Proyecto Vida submarina 1"
+            },
+            {
+              "id": 2,
+              "nombre": "Proyecto Vida submarina 2"
+            },
+            {
+              "id": 3,
+              "nombre": "Proyecto Vida submarina 3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "nombre": "Soluciones S.A.",
+      "fechaFundacion": "2003-08-02",
+      "tamanoEmpresa": "Mediana",
+      "empresaFamiliar": true,
+      "rubro": "Finanzas",
+      "esPropioRubro": true,
+      "cambioRubro": false,
+      "tipoSocietaria": "S.R.L.",
+      "esPropioTipoSocietario": true,
+      "cambioTipoSocietario": false,
+      "oficinaCentral": true,
+      "operacionesInternacionales": true,
+      "impactoSocial": false,
+      "sostenibilidad": false,
+      "anioDeImplementacionImpa": null,
+      "sedes": [
+        {
+          "id": 1,
+          "nombre": "Cochabamba"
+        }
+      ],
+      "paises": [
+        {
+          "id": 1,
+          "nombre": "Bolivia"
+        },
+        {
+          "id": 2,
+          "nombre": "Chile"
+        }
+      ],
+      "municipios": [
+        {
+          "id": 1,
+          "nombre": "Cercado"
+        }
+      ],
+      "ods": []
+    }
+  ]
+}
