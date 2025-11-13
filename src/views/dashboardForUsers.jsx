@@ -1000,14 +1000,13 @@ const SmallLoading = () => (
       </div>
 
       <div className="loading-text">
-        <h2>🔄 Cargando Dashboard Empresarial</h2>
+        <h2>Cargando Dashboard Empresarial</h2>
         <p>Estamos preparando todos los datos y gráficos...</p>
 
         <div className="loading-steps">
-          <div className="loading-step active">📊 Conectando con la base de datos</div>
-          <div className="loading-step">📈 Procesando información empresarial</div>
-          <div className="loading-step">🎯 Configurando análisis ODS</div>
-          <div className="loading-step">🌎 Cargando datos internacionales</div>
+          <div className="loading-step active">Conectando con la base de datos</div>
+          <div className="loading-step">Procesando información empresarial</div>
+          <div className="loading-step">Configurando análisis </div>
         </div>
       </div>
     </div>
