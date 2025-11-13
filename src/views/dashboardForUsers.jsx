@@ -52,7 +52,7 @@ const FilterPanel = ({ filters, onFilterChange, data, isVisible, onClose }) => {
   const uniqueValues = useMemo(() => {
     return {
       rubros: [...new Set(data.empresas.map(e => e.rubro))],
-      tamanos: [...new Set(data.empresas.map(e => e.tamanoEmpresa))],
+      tamanos: [...new Set(data.empresas.map(e => e.tamanioEmpresa))],
       tiposSocietarios: [...new Set(data.empresas.map(e => e.tipoSocietaria))],
       departamentos: [...new Set(data.empresas.flatMap(e => e.sedes.map(s => s.nombre)))],
       tieneODS: ['Con ODS', 'Sin ODS'],
@@ -1016,7 +1016,7 @@ const SmallLoading = () => (
 
 // Mensaje de error simple con opción de reintento / redirección
 const LoadError = ({ error, onRetry }) => {
-  const redirectPath = (error && error.redirectPath) || '/Dashboard-bicentenario/';
+  const redirectPath = (error && error.redirectPath) || '/orbis-dashboard/';
   const userMessage = (error && error.userMessage) || 'Ups, algo pasó. Intente más tarde.';
 
   return (
@@ -1026,7 +1026,7 @@ const LoadError = ({ error, onRetry }) => {
       <p>{userMessage}</p>
       <div style={{ display: 'flex', gap: 12, marginTop: 12 }}>
         <button onClick={onRetry} className="retry-button">Reintentar</button>
-        <button onClick={() => (window.location.href = '/Dashboard-bicentenario/')} className="redirect-button">
+        <button onClick={() => (window.location.href = '/orbis-dashboard/')} className="redirect-button">
           Ir a Inicio
         </button>
       </div>
@@ -1062,7 +1062,7 @@ const DashboardForUsers = () => {
     }
 
     if (filters.tamanos.length > 0) {
-      filtered = filtered.filter(empresa => filters.tamanos.includes(empresa.tamanoEmpresa));
+      filtered = filtered.filter(empresa => filters.tamanos.includes(empresa.tamanioEmpresa));
     }
 
     if (filters.tiposSocietarios.length > 0) {
@@ -1164,7 +1164,7 @@ const DashboardForUsers = () => {
           <div className="header-top">
             {/* Nuevo botón de retorno */}
             <button 
-              onClick={() => window.location.href = '/Dashboard-bicentenario/'}
+              onClick={() => window.location.href = '/orbis-dashboard/'}
               className="back-home-button"
             >
               <span>Volver al Dashboard base</span>

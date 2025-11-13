@@ -107,7 +107,7 @@ const DashboardBase = () => {
             <div className="dashboard-block">
               <h2 className="block-title">
                 <Icon name="map" />
-                Empresas por Departamento
+                Sedes de empresas por Departamento
               </h2>
               <BoliviaMap/>
             </div>

@@ -6,20 +6,17 @@ import DashboardForUsers from './views/dashboardForUsers.jsx';
 
 function App() {
   return (
-    <Router>
+    <Router basename="/orbis-dashboard/">
       <div className="App">
         <Routes>
-          {/* Ruta por defecto va a DashboardBase */}
-          <Route path="/" element={<Navigate to="/Dashboard-bicentenario/" replace />} />
-          
-          {/* Dashboard principal con sidebar */}
-          <Route path="/Dashboard-bicentenario/" element={<DashboardBase />} />
+          {/* Ruta por defecto */}
+          <Route path="/" element={<DashboardBase />} />
           
           {/* Dashboard para usuarios (vista de analytics) */}
           <Route path="/Dashboard-Users/" element={<DashboardForUsers />} />
           
           {/* Ruta de fallback */}
-          <Route path="*" element={<Navigate to="/Dashboard-bicentenario/" replace />} />
+          <Route path="*" element={<Navigate to="/" replace />} />
         </Routes>
       </div>
     </Router>

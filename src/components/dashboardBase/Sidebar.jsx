@@ -21,7 +21,6 @@ const Sidebar = () => {
           to="/Dashboard-bicentenario/" 
           className={`nav-link ${isActive('/Dashboard-bicentenario/') ? 'active' : ''}`}
         >
-          <Icon name="home" className="nav-icon" />
           <span>Inicio</span>
         </Link>
         
@@ -29,7 +28,6 @@ const Sidebar = () => {
           to="/Dashboard-Users/" 
           className={`nav-link ${isActive('/Dashboard-Users/') ? 'active' : ''}`}
         >
-          <Icon name="statistics" className="nav-icon" />
           <span>Analytics</span>
         </Link>
       
