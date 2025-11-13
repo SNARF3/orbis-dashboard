@@ -14,7 +14,7 @@ const Sidebar = () => {
   return (
     <div className="dashboard-sidebar">
       <div className="sidebar-header">
-        <h1 className="sidebar-title">Bicentenario Analytics</h1>
+        <h1 className="sidebar-title">Bicentenario Dashboard</h1>
       </div>
       <nav className="sidebar-nav">
         <Link 
